@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · 产品能力与团队协作"
+  short_description: "Build a 产品能力与团队协作 using expert methodology"
+  default_prompt: "Use $lps-product-career to build a practical 产品能力与团队协作 for my situation."

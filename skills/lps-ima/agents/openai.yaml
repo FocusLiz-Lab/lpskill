@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $lps-ima to retrieve IMA evidence and continue with the right Lenny 产品与增长知识库 workflow."

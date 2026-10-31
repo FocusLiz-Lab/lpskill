@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · AI产品机会与验证"
+  short_description: "Build a AI产品机会与验证 using expert methodology"
+  default_prompt: "Use $lps-ai-product to build a practical AI产品机会与验证 for my situation."

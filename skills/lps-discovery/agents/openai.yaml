@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · 产品机会与用户研究"
+  short_description: "Build a 产品机会与用户研究 using expert methodology"
+  default_prompt: "Use $lps-discovery to build a practical 产品机会与用户研究 for my situation."

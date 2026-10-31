@@ -1,0 +1,246 @@
+{
+  "prefix": "lps",
+  "repository": "lpskill",
+  "creator": "LennysPodcast",
+  "source_files": 778,
+  "unique_sources": 467,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 371,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240425 How to build deeper, more robust relationships - Carole Robin (Stanford professor, “Touchy Feely”).md",
+          "title": "240425 How to build deeper, more robust relationships - Carole Robin (Stanford professor, “Touchy Feely”)",
+          "url": "https://www.youtube.com/watch?v=Cew9-GlC_yk",
+          "date": "2024-04-25",
+          "sha256": "67f655c50339362c4b2046142541693a1c7748bfb671475bbfb876da35256b06",
+          "chars": 76724,
+          "excerpt": "do quite uncomfortable things in order to learn how to do this well is there can you share an example or two of some of the things you put people through whatever you're able to share sure I mean I think that that we don't learn to be in I don't learn how to connect with you by reading about it in a book uh which by the way is why it took us four years to write our book because at the end of every ch chapter there's a here are things you can go do with what you just learned in the reading and likewise"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231029 对一场运动的反思——埃里克·莱斯（精益创业方法论创始人）.md",
+          "title": "231029 对一场运动的反思——埃里克·莱斯（精益创业方法论创始人）",
+          "url": "https://www.youtube.com/watch?v=xzebbzIntFc",
+          "date": "2023-10-29",
+          "sha256": "8669422e249d96dff6db8e05f94ec10f21aae9f46e7dd3278e5058ce6cd4b6c4",
+          "chars": 50363,
+          "excerpt": "埃里克·莱斯（Eric Ries）是精益创业（Lean Startup）方法论的创始人，著有《纽约时报》畅销书《精益创业》，同时也是长期证券交易所（LTSE）的创始人。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230105 借助导师提升职业水平 - Jules Walter (YouTube, Slack).md",
+          "title": "230105 借助导师提升职业水平 - Jules Walter (YouTube, Slack)",
+          "url": "https://www.youtube.com/watch?v=zn2JNbZwf00",
+          "date": "2023-01-05",
+          "sha256": "5f41a24dfe117b5579a4a73ab3bda4bbc115523072387836765cac01822a7966",
+          "chars": 25153,
+          "excerpt": "朱尔斯·沃尔特（Jules Walter）是 YouTube 的产品负责人，同时也是黑人产品经理网络（Black Product Managers Network）和 Codepath."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 369,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240121 Good Strategy, Bad Strategy - Richard Rumelt.md",
+          "title": "240121 Good Strategy, Bad Strategy - Richard Rumelt",
+          "url": "https://www.youtube.com/watch?v=4uWKEG0s9Kc",
+          "date": "2024-01-21",
+          "sha256": "f380c425c1632e6e163502e6df870aa448a1f707b6bf9facfd063461f882ff36",
+          "chars": 80528,
+          "excerpt": "strategy part of the book they wrote emails and say oh my God thank goodness someone just finally said that these Walling in teral meetings I sit through or out action strategy or these documents that the company produces are not actually strategy and they're not bad strategy the standard bad strategy for a corporation is a set of profit goals or performance goals a set"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250814 拯救产品职业生涯的一个问题 - Matt LeMay.md",
+          "title": "250814 拯救产品职业生涯的一个问题 - Matt LeMay",
+          "url": "https://www.youtube.com/watch?v=ts9ZvlkeWGs",
+          "date": "2025-08-14",
+          "sha256": "d15c9d148743a16ed5e6fbffb7c1b0e1d8e426297515d17a07e9727a3fe368a1",
+          "chars": 30562,
+          "excerpt": "> 在那本书中，她有一个视觉图示，指出大多数公司在推行 OKR 层层分解时，往往采用多层级结构：顶层是公司目标，然后是部门目标，接着是大团队目标、小团队目标，再到更小的团队目标。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230119 如何构建你的产品战略体系 - Ravi Mehta（Tinder、Facebook、Tripadvisor、Outpace）.md",
+          "title": "230119 如何构建你的产品战略体系 - Ravi Mehta（Tinder、Facebook、Tripadvisor、Outpace）",
+          "url": "https://www.youtube.com/watch?v=tncs0m5pmQg",
+          "date": "2023-01-19",
+          "sha256": "8015e6c4dd2ba3f31d7c08fe042a49da106ef84719b3884a48787f3470cc3a2a",
+          "chars": 27978,
+          "excerpt": "例如，如果你发现难以达成目标，可能是因为路线图未能有效推动这些目标的实现；如果路线图不合理，可能是因为产品战略阐述得不够清晰；如果产品战略存在问题，可能是因为团队对公司战略、产品在其中扮演的角色以及公司使命缺乏深刻理解。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "discovery": {
+      "matching_sources": 364,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/241215 产品背后：Duolingo连续打卡机制——Jackson Shuttleworth（留存团队高级产品经理）.md",
+          "title": "241215 产品背后：Duolingo连续打卡机制——Jackson Shuttleworth（留存团队高级产品经理）",
+          "url": "https://www.youtube.com/watch?v=_CCwoQZH5hI",
+          "date": "2024-12-15",
+          "sha256": "22dfa43f6f76eb3d50121762d2793005234f05b01d72612cfc8fb405c2d8d45b",
+          "chars": 31444,
+          "excerpt": "它不仅能让用户获得一种“奖励”——比如坚持七天不使用连续打卡冻结（streak freeze），从而让连续打卡记录保持完美状态——同时，它也是一个很好的信号，能帮助我们识别出那些没有使用连续打卡冻结功能的用户。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240905 增长黑客创始人肖恩·埃利斯（《增长黑客》作者）揭秘其成功秘诀.md",
+          "title": "240905 增长黑客创始人肖恩·埃利斯（《增长黑客》作者）揭秘其成功秘诀",
+          "url": "https://www.youtube.com/watch?v=VjJ6xcv7e8s",
+          "date": "2024-09-05",
+          "sha256": "cc460b69567bff518773c1cb2f1f1341ea327acc3f74d145be968da3c1f17db8",
+          "chars": 34360,
+          "excerpt": "因此，我相信马克·扎克伯格将焦点从月活跃用户转向日活跃用户的决定，虽然看似随意——因为他们达到了每月十亿活跃用户的目标，于是说：“好吧，让我们尝试达到每日十亿活跃用户。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240919 在AI时代重新思考SEO - Eli Schwartz（SEO顾问，作者）.md",
+          "title": "240919 在AI时代重新思考SEO - Eli Schwartz（SEO顾问，作者）",
+          "url": "https://www.youtube.com/watch?v=Z71yGshPTwk",
+          "date": "2024-09-19",
+          "sha256": "ef94c0bfb5fb53b41898d863acf6bc8593b8e51a177cd7bfd13a8aa4b5cf4ee9",
+          "chars": 42412,
+          "excerpt": "以 Zapier 为例，他们做了程序化 SEO，目的是引导用户去创建连接不同产品的 Zaps；Tinder 也做过类似尝试，目的是解决用户的孤独感——通过展示在你所在的城市里，这个问题是可以解决的，并引导你下载 Tinder App 来解决它。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "strategy": {
+      "matching_sources": 291,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250126 产品策略操作指南 - Chandra Janakiraman（VRChat CPO，前Meta、Headspace）.md",
+          "title": "250126 产品策略操作指南 - Chandra Janakiraman（VRChat CPO，前Meta、Headspace）",
+          "url": "https://www.youtube.com/watch?v=WFLH8Af2f30",
+          "date": "2025-01-26",
+          "sha256": "76e8b7540ed156e58f0af3352eb45ee2b3aeea45dc7a04ddd80c8ad789998196",
+          "chars": 32980,
+          "excerpt": "关于战略，已经有大量优秀的资料可供参考，例如源自古代兵法的《孙子兵法》（The Art of War），迈克尔·波特（Michael Porter）的所有著作，理查德·鲁梅尔特（Richard Rumelt）的《好战略，坏战略》（Good Strategy Bad Strategy），以及曾在你的播客上做客的安德鲁·兰夫利（Andrew Likewley）和罗杰·马丁（Roger Martin）合著的《赢得游戏》（Playing to Win）。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240121 Good Strategy, Bad Strategy - Richard Rumelt.md",
+          "title": "240121 Good Strategy, Bad Strategy - Richard Rumelt",
+          "url": "https://www.youtube.com/watch?v=4uWKEG0s9Kc",
+          "date": "2024-01-21",
+          "sha256": "f380c425c1632e6e163502e6df870aa448a1f707b6bf9facfd063461f882ff36",
+          "chars": 80528,
+          "excerpt": "how so many organizational leaders don't do it they they create bad strategy uh they they they do something that they say a strategy and then it's not you have a whole chapter on this on what is a bad strategy can we just touch on a few of the things you see as signs that your strategy is is bad or maybe it doesn't even exist sure what H good strategy bad strategy uh a lot of a lot of people resonated with the bad"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240725 打造制胜战略的5个关键问题 - 罗杰·马丁（作者、顾问、演讲者）.md",
+          "title": "240725 打造制胜战略的5个关键问题 - 罗杰·马丁（作者、顾问、演讲者）",
+          "url": "https://www.youtube.com/watch?v=y7SN4FK8noY",
+          "date": "2024-07-25",
+          "sha256": "f559c7e89699b968781bec60388d2d5f7b3318368164e74f850abe63ce1305d0",
+          "chars": 22770,
+          "excerpt": "人们学习战略的另一条途径是通过战略咨询公司，但所谓的战略咨询公司现在几乎不做真正的战略工作了，因为与并购后整合、数字化转型以及其他业务相比，战略咨询只是一门小生意。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "growth": {
+      "matching_sources": 352,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250119 10个永远行不通的增长策略 - Elena Verna（Amplitude、Miro、Dropbox、SurveyMonkey）.md",
+          "title": "250119 10个永远行不通的增长策略 - Elena Verna（Amplitude、Miro、Dropbox、SurveyMonkey）",
+          "url": "https://www.youtube.com/watch?v=IHwS2By9UKM",
+          "date": "2025-01-19",
+          "sha256": "335b9fb6d726daf524749d6b3e340782cb65aa02eef28e5a44f020f923569105",
+          "chars": 30150,
+          "excerpt": "因此，持续叠加不同的增长模型——我特指产品驱动增长、营销驱动增长、销售驱动增长，并不断将其引入生态系统——这才是那些能够长期持续增长的公司与那些仅出现短暂爆发（可能是独角兽级别的 70%、80% 甚至更高增长率）随后增速放缓的公司之间的关键区别。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/260405 增长负责人（Anthropic）- Anthropic正在自动化其自身的增长.md",
+          "title": "260405 增长负责人（Anthropic）- Anthropic正在自动化其自身的增长",
+          "url": "https://www.youtube.com/watch?v=k-H4nsOTuxU",
+          "date": "2026-04-05",
+          "sha256": "a74326d9d1ad8b4f2386e0c9197b3951f16b966acc5f21a8ea0a315a56d2f283",
+          "chars": 37846,
+          "excerpt": "在这期节目中，阿莫尔分享了 Anthropic 这样的公司如何运营和增长的罕见视角，包括他们如何看待增长、他们自动化了工作的哪些部分、产品和增长角色的未来、阿莫尔最初如何通过冷邮件联系 Mike Krieger 获得这份工作，以及更多内容。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221106 Snyk如何打造产品驱动增长巨头 - Ben Williams（Snyk产品副总裁）.md",
+          "title": "221106 Snyk如何打造产品驱动增长巨头 - Ben Williams（Snyk产品副总裁）",
+          "url": "https://www.youtube.com/watch?v=21sFTZzIfUk",
+          "date": "2022-11-06",
+          "sha256": "8500616b4e508efbfed4967c3c4c94d0e35617873f16e34ba398eff98a432295",
+          "chars": 30496,
+          "excerpt": "通过产品驱动增长（PLG）、产品驱动销售以及能够识别各种微观和宏观的增长循环，理解它们之间的关联，并用定性模型将这些内容记录下来，从而传达对增长路径的共同认知，这具有极大的力量。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "ai-product": {
+      "matching_sources": 354,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260524 AI predictions- Job markets, Codex beats Claude, and the death of org charts - Dan Shipper.md",
+          "title": "260524 AI predictions- Job markets, Codex beats Claude, and the death of org charts - Dan Shipper",
+          "url": "https://www.youtube.com/watch?v=4D3hDmGhFhA",
+          "date": "2026-05-24",
+          "sha256": "d994f098cdcbe0a8e3a0a4ed3554a3b78ac7f503c92fc6dbb8f0e92884a51be3",
+          "chars": 94128,
+          "excerpt": "But um the model that I see working for us and for a lot of other companies, including the model companies, the model companies themselves are starting to see this, is when it comes to the sort of like async agents, it's really a you know, you have one agent at the top that's like doing sometimes it's everything, a lot of times it's um a particular kind of job that you've decided that everyone in the company needs an agent for like data requests."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260101 We replaced our sales team with 20 AI agents—here’s what happened next - Jason Lemkin (SaaStr).md",
+          "title": "260101 We replaced our sales team with 20 AI agents—here’s what happened next - Jason Lemkin (SaaStr)",
+          "url": "https://www.youtube.com/watch?v=I-R1bc1rlFs",
+          "date": "2026-01-01",
+          "sha256": "c08e02114a9ab71233c704541dd08b8a679a6d8e30aefa451076220a2b9810d8",
+          "chars": 105209,
+          "excerpt": "sales team from around 10 SDRs and AEES to one full-time AE, a part-time chief of AI named Amelia, and 20 AI agents."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260111 Why most AI products fail- Lessons from 50+ AI deployments at OpenAI, Google & Amazon.md",
+          "title": "260111 Why most AI products fail- Lessons from 50+ AI deployments at OpenAI, Google & Amazon",
+          "url": "https://www.youtube.com/watch?v=z7T1pCxgvlA",
+          "date": "2026-01-11",
+          "sha256": "507200debd3ca89ab3154c7a4d317e5ff0efae89c581a073143f68fbfe8e49bf",
+          "chars": 89532,
+          "excerpt": "You've gone deep with a lot of companies who uh have built AI products, have struggled to build AI products, build AI agents."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "product-career": {
+      "matching_sources": 373,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240118 组建团队的艺术与智慧——海蒂·赫尔法德（《动态重组》作者）.md",
+          "title": "240118 组建团队的艺术与智慧——海蒂·赫尔法德（《动态重组》作者）",
+          "url": "https://www.youtube.com/watch?v=0wN5wSImUdY",
+          "date": "2024-01-18",
+          "sha256": "5a203a95982332449f087cdfa68ea8c6c7f76e50330c0b26ec31672d9f577c6c",
+          "chars": 22076,
+          "excerpt": "通过“我们的团队故事”，每个团队会制作一条时间线：成员按照加入团队的先后顺序站立，共同梳理关键里程碑，包括加入团队的时间、人员离职的时间、重大事件以及他们创造并引以为豪或感到兴奋的成果。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250814 拯救产品职业生涯的一个问题 - Matt LeMay.md",
+          "title": "250814 拯救产品职业生涯的一个问题 - Matt LeMay",
+          "url": "https://www.youtube.com/watch?v=ts9ZvlkeWGs",
+          "date": "2025-08-14",
+          "sha256": "d15c9d148743a16ed5e6fbffb7c1b0e1d8e426297515d17a07e9727a3fe368a1",
+          "chars": 30562,
+          "excerpt": "但这正是我在团队层面撰写这本书的原因之一，因为对于像我这样真正享受并在团队环境中茁壮成长的人来说，如果把产品团队视为影响力的基本单位，并说‘我们交付了这个，我们通过合作为业务带来了这种影响’，这会让人感觉很好，同时也直接指向了该团队共同完成的工作。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230618 打造高绩效团队 - Melissa Tan（Webflow、Dropbox、Canva）.md",
+          "title": "230618 打造高绩效团队 - Melissa Tan（Webflow、Dropbox、Canva）",
+          "url": "https://www.youtube.com/watch?v=DoEfXj1b_ko",
+          "date": "2023-06-18",
+          "sha256": "78c8c6cdacdb6790c4b2227054e2070ee5820d0390019b6e9205cfaf85ffe871",
+          "chars": 26375,
+          "excerpt": "在你讲述的过程中，我做了一些笔记，大致可以总结为四点：第一，营造注重影响力和绩效的文化；第二，坚持团队优先，避免制造团队与个人之间的对立；第三，建立主人翁意识，让每个人感觉自己就是主人；第四，保持乐趣，这一点我非常认同。"
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

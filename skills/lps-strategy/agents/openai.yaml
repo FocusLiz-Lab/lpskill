@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · 产品战略与优先级"
+  short_description: "Build a 产品战略与优先级 using expert methodology"
+  default_prompt: "Use $lps-strategy to build a practical 产品战略与优先级 for my situation."

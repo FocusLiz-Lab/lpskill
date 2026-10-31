@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · 行动路线"
+  short_description: "Build a 行动路线 using expert methodology"
+  default_prompt: "Use $lps-roadmap to build a practical 行动路线 for my situation."

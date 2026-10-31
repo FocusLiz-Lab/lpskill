@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 更新"
+  short_description: "更新整套Skill和原子库"
+  default_prompt: "Use $lps-update to 检查并更新整套Skill和原子库。"

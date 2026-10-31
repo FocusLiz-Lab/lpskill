@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库 · 激活留存与增长"
+  short_description: "Build a 激活留存与增长 using expert methodology"
+  default_prompt: "Use $lps-growth to build a practical 激活留存与增长 for my situation."

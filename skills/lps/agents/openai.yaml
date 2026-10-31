@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lenny 产品与增长知识库工具箱"
+  short_description: "Lenny 产品与增长知识库 expert workflow router"
+  default_prompt: "Use $lps to route and solve my 产品判断、AI产品与增长实验 problem."

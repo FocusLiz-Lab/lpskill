@@ -1,12 +1,102 @@
 {
-  "after": 1152,
+  "after": 1280,
   "unique_sources": 467,
   "extraction": "ckw-initial-source-v1",
   "files": [
     {
       "file": "atoms.jsonl",
-      "bytes": 1575481,
-      "sha256": "78fe5deef14c880331aa4224b845ad4190764ae1b641cab8ecd88474bb2668af"
+      "bytes": 1779893,
+      "sha256": "7c5b2a119936da37bf4066f4f245a3869b7075ec4656f9ffcb65eb218e9a1b7e"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 71211,
+      "sha256": "8d9b5204557f24fd4429c3881c620cd75f04db3efbfb5e4c634c9deb64a675f2"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 98162,
+      "sha256": "24a4e8c29be4a7711c7da741dd0c25c899302ad10184da76fdc35c1ab84feb6a"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 131843,
+      "sha256": "7b1907fa37f0fd3cbc540634d871cb91209f8ac2f3a607235548d9e128a5fac9"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 90065,
+      "sha256": "538dc2d4d4409d8801115571c785c6a21edb4b51fad1875a4b371633a64418b9"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 97860,
+      "sha256": "33b5999d91e5926414269973e695d7b5d6d6a850378c2a0407fca27872bd16b3"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 99608,
+      "sha256": "f2e213acf207d26ad66ec611c1b8187ad5a16d991be645a33d05f0b153e931a7"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 108956,
+      "sha256": "6a6dfdcc2abeae58c1d10984fe1d8b738bd449a03c7ac67e85b062c07949d125"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 80728,
+      "sha256": "902cc9fca60a77922f9772d11dd0313f3dfba44bb7a7cab4bdef73797e2350d3"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 83363,
+      "sha256": "9d07d0d2ff2f7b1938df16c6acf81b3a3bb97185f6a1d3e76044026961df11f1"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 110809,
+      "sha256": "15f261680b130e23111021ecfa1793deeb650dde9f1ba4ded8e948fcdab37bc9"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 78878,
+      "sha256": "36df3703de226f644d374572085e5b521fec865a93de3d18f06e08ca5433e35a"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 88835,
+      "sha256": "34e0fa575667f4b868cf69755cb178598eb24d7f38f49ca7e4bc5be605657a9e"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 97229,
+      "sha256": "66ebb9332c41d58cc68f8c5563c008b12a30556ea10e6721c57453f693a6ecbf"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 97857,
+      "sha256": "390d9e4df292db8236d4f9af69e0570f8a4c019f1454d6ef5bc8df0d7d0432c9"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 74553,
+      "sha256": "2c6561243d865c76251f4f413b2655e6f8fdb56f1cf161aad1bd343809577e88"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 55207,
+      "sha256": "1ab0c2fbf19e0d1b0ce83cb64be04edc2f2e7c73521e2a1d7cad7ac81d11310b"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 102129,
+      "sha256": "2d471bc789657f82566aeb4e0d4809abc342946af01ea84b9dc1b0f0239429c8"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 212600,
+      "sha256": "eb20526f5a3e12ed62a68a3aba81eff11e9c897e228aab9e60c9b26f92a9836f"
     }
   ]
 }

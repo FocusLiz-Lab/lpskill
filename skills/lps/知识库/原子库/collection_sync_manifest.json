@@ -1,0 +1,1950 @@
+{
+  "extraction": "ckw-collected-semantic-v1",
+  "sources": {
+    "https://www.youtube.com/watch?v=FCxkT8ULrVg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/220728 如何制定成功的产品战略 - 梅丽莎·佩里.md",
+      "sha256": "bb0cd50da7b474c2ba101e2faaab72198cac08e29f90e72ffbf08d7d19bf2b46",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=HzDLWKI6mnI": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/220807 How to launch and grow your product - Ryan Hoover of Product Hunt and Weekend Fund.md",
+      "sha256": "664247e164aae7dda2858886df484c2aaadb14dc8e9fe9f4cc3776e9b2c67ddf",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=h-KVGHoQ_98": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/220821 产品的本质 - 马蒂·卡根，硅谷产品集团.md",
+      "sha256": "fbc04d3fa0e8e5b4879908a3e0b153cbacb9f63c9b6ea99f749b2b0b44a5cc4e",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=YP_QghPLG-8": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/220825 产品管理艺术 - Shreyas Doshi（Stripe、Twitter、Google、Yahoo）.md",
+      "sha256": "8a2fc23b7df2c0de526ab421421098aaa19b06229118f481baf592af71c6559f",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=awcd3P1DnX4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/220904 The role of AI in new product development - Ryan J. Salva (VP of Product at GitHub).md",
+      "sha256": "d751f781d4fa440ef749170d8ae98bac0523fa2d27b3a97da0e5646de9d9da21",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=u53fplD_C30": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/221002 Using behavioral science to improve your product - Kristen Berman (Irrational Labs).md",
+      "sha256": "baf09cb3c604c665ad9d6402b4d9aa8f968816ed35811a18b6613f99544a8b05",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=9RFaz9ZBXpk": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/221006 用持续产品发现打造更好的产品 - Teresa Torres.md",
+      "sha256": "915aeef7eed808648d3c4946edc769d7d2a1d381a2199740adee2d10e78fe0fb",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=W3cvqPCGcck": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/221016 构建更好的路线图 - Janna Bastow (Mind the Product, ProdPad).md",
+      "sha256": "9d1ad4c642533ef436a0d099b5e202bf7d1f20668c3e979bf9a3928cc553637b",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=uMhBej6-Ey4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/221020 让产品开发更人性化 - Adriel Frederick（Reddit、Lyft、Facebook）.md",
+      "sha256": "e4460d14590362d123e438be3fb38cd6c22eb110b96c31ae862b52853114ebd1",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=y3-cwoHMwQs": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/221113 纽约时报如何打造产品：CPO Alex Hardiman的内部视角.md",
+      "sha256": "d6b5c8d27eb29ba03759ac7b3c5e8bf3633a12519b11804d8016d32938b1f0fa",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=NepFo4zXyK4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230108 深入解析Figma的产品构建之道 - Yuhki Yamashita（Figma首席产品官）.md",
+      "sha256": "484a9a4568009977dfdb93b8f8bc0d2dfcb0afe491e677579e7235a13d040ce7",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=tncs0m5pmQg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230119 如何构建你的产品战略体系 - Ravi Mehta（Tinder、Facebook、Tripadvisor、Outpace）.md",
+      "sha256": "8015e6c4dd2ba3f31d7c08fe042a49da106ef84719b3884a48787f3470cc3a2a",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=t-2oXtZrlEc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230126 深入解析Mixpanel的产品发展历程 - Vijay Iyengar.md",
+      "sha256": "70e3fe095db07b44f259c257a80ff1f1b77001b6892afb81737719e74c073873",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=2ezz4KJe7kA": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230202 如何培养创新和大局思维 - Eeke de Milliano (Retool, Stripe).md",
+      "sha256": "26c1af390c4bc7e6480ae7997ca9e3123ff4f1bdd3f4894236d56173de6d807c",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=gXDg88rSG8U": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230206 流程病——Marty Cagan.md",
+      "sha256": "37169a450c6c96f77423fc316ed93d889fad420e6a23653529be247e4504e6ae",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=tGS-NhxrN_Q": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230216 了解产品运营的角色 - Christine Itwaru (Pendo).md",
+      "sha256": "320d0f7a7b57060788a2182b7cb1eddecd423a4624329a2aa84890290e3a3208",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=gRiCzfFEd7c": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230223 CNN如何打造产品——Upasna Gautam.md",
+      "sha256": "78dcdeb8fd4cc8ec51bf1d9f7f7977c02d36ee9e93da4444e715ffccaa3607e7",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=wprxOrDpB0U": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230317 Sriram Krishnan 不喜欢“待办任务”框架.md",
+      "sha256": "170db6a9da0419530b75c019ad30612dd844d1746f1af694129a301acb245cb3",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=QMFvz8utx-Q": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230330 跳出框架思维——Casey Winters（Pinterest、Eventbrite、Airbnb、Tinder、Reddit、Grubhub）.md",
+      "sha256": "eb66bb00d318515dac4441be52bc07ada862e90c5b4891523b5cf01d5a9eaadc",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=VtNmAjNF3Tc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230409 Product lessons from Waymo - Shweta Shrivastava (Waymo, Amazon, Cisco).md",
+      "sha256": "20a66df938eb2357904c0fcf2e289b222a6b9a39f25c5028dc966267d226f050",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=furNg4njlsg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230420 An inside look at how Miro builds product - Varun Parmar (CPO of Miro).md",
+      "sha256": "0a26afb5e101a24bf4cc73dc5862a3d4fca8a2d54a8c0eaef19a0c9a94d63f16",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=EW6K8ZOWoIs": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230514 产品差异化、团队建设与第一性原理思维框架 - Ayo Omojola.md",
+      "sha256": "01d01dec48606202a3979ec157bc45249d1cf8e4818d62d4ebcd153c8251ab11",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=HCKosdV1J-8": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230518 产品直觉、AI、第一英里体验与混乱中期——斯科特·贝尔斯基（Adobe）.md",
+      "sha256": "e7ec72698a70dac3aeb943a469a96de65d92d45c677af25afaedda8ae43d80a4",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=QtJoYFyrdPI": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230521 产品科学、重大决策与AI如何重塑音乐未来 - 古斯塔夫·索德斯特伦.md",
+      "sha256": "4762cc854602338c43d1e722f526e399a22c6a84e5788d4013629db4284ce0d7",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=gLFZNzeylCc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230702 打造最小可爱产品，WeWork与Airbnb的故事，以及作为产品经理的 thriving - Jiaona Zhang.md",
+      "sha256": "9e99cfb40bc37ae6a312fadadbf793e2fb5e222eb28c905f8871a4c52eacd2a7",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=ZUwkTs_QWqg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230716 LinkedIn的产品演进与构建复杂系统的艺术 - Hari Srinivasan (LinkedIn).md",
+      "sha256": "929c2db8238aca410665cfe6b88b7deb91f492aa2b2a7ad8d0c40c36549938b1",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=xQV7HVyAJjc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230824 The ultimate guide to JTBD - Bob Moesta (co-creator of the framework).md",
+      "sha256": "f8d84135f4b7030b58f36462c9d717714d91a09a194f185cc6b2caafeddcd543",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=n4hRs2FsRug": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230903 深入 Etsy 的产品、增长与市场演变——Tim Holley（产品副总裁）.md",
+      "sha256": "df5e4b581dd6b3b2d0b15ca2648293ca39d56e18328a7741b3722dbdb96775c2",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=_93m4PriHyc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230910 When enough is enough - Andy Johns (ex-FB, Twitter, Quora).md",
+      "sha256": "b89a9cdc1a87ca8323d11a3625b99b4196790b91c3272d40fd4ab7a6a57490d8",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=T8TQGbJhv6Q": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230914 精选尖锐问题、提升病毒传播力与独特产品框架——Oji Udezue（Typeform）.md",
+      "sha256": "f1c5105dd11912e89d85b6d7f74b5ff1dce3684cfdd982e9c1b5e098a924fe92",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=aJWSn-tz3jQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230921 Becoming evidence-guided - Itamar Gilad (Gmail, YouTube, Microsoft).md",
+      "sha256": "f7b48fa329e103f6bbc3fa4df216ae8f80ee5cb7ee36839d8c09cea7360fe0bc",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=1gXNOJEWajU": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/230928 打造Anchor，被Spotify收购，以及经验教训——Maya Prohovnik（播客产品负责人）.md",
+      "sha256": "a1767af62cbc9dbe92247ea0cd3e1372f0450d2748f42abbbbc7c89f2844980f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=sWClFYdbkRA": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231019 扩展多邻国业务、拥抱失败，以及洞察拉美科技圈 - Gina Gotthilf.md",
+      "sha256": "9cee5a0a80daa020f69f201aa47f76952bc38917778a0675d20b6df29ca9ad28",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=R-Geamq9xc0": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231026 AI对你的产品策略意味着什么 - Paul Adams（Intercom CPO）.md",
+      "sha256": "2d27618b1d89af447fc50c7e7d689dc23b64e196a9e1a09583b63689b78cdeb9",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=4LjddcccYIo": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231105 掌握产品策略与成长为产品经理 - Maggie Crowley（Toast、Drift、TripAdvisor）.md",
+      "sha256": "c8ca1fc4bd3bdc3619a85971136d3c86b5f913ff1c499ab1229e96316106a642",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=9VdixM9KPN4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231116 The ultimate guide to product operations - Melissa Perri and Denise Tilles.md",
+      "sha256": "7546a025bce227412d850a77342a1525a2859641c9901b5e0626318537fd53d4",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=tBPTwUmaxDs": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231203 打造引人入胜的产品愿景 - Ebi Atawodi (YouTube, Netflix, Uber).md",
+      "sha256": "5e46335658de5d1c587a551cacf15e72a0cde03ef7204e654fd0d89b4aacd940",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=1sClhfuCxP0": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231207 全栈产品经理 - Anuj Rathi（Swiggy、Jupiter Money、Flipkart）.md",
+      "sha256": "f2fcf3569302f8281df42059da64d5a82e5efd3dbe81a5f9d74dd83e21278e24",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=SXYc5RoU3Lg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/231221 产品管理的本质 - Christian Idiodi (SVPG).md",
+      "sha256": "13c06470a45298150b984891b66716f85815be92238826ed2a8b796dda48479f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=MQQ1wohqArk": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240204 来自Atlassian的启示 - Megan Cook（Jira产品负责人）.md",
+      "sha256": "e79defea3efb40cae62c845a3d5a330618650692100ba41e98f46ede795100a8",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=9N4ZgNaWvI0": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240310 产品管理剧场 - 马蒂·卡根（硅谷产品集团）.md",
+      "sha256": "292f9225e8b75058a8fed9580454b5ae59dd57e9b2ce3be91c09b6be30daf284",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=aXGo1o_baBo": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240407 Bending the universe in your favor - Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD).md",
+      "sha256": "fbb77312a902457d870213405249f920fc67e473614ff43527d72e571d91e185",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=yc1Uwhfxacs": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240411 寻找产品市场契合度的框架 - Todd Jackson（First Round Capital）.md",
+      "sha256": "7a2735f49adb116c95ac1415984e3f816f89aaf00d51668c55abb4f8c1ee89ac",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=uDq6_CPaRjM": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240421 愿景、信念与炒作——如何在公司内部从0到1构建产品 - Mihika Kapoor（Figma产品经理）.md",
+      "sha256": "f344b41a96af82fdd1605f34c907239b4ef88f8984da15d6167f84138add4212",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=cZqpqb5qR5A": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240616 从零到一打造产品的艰难教训 - Tanguy Crusson（Jira产品发现负责人）.md",
+      "sha256": "e81877aada5604cb6417c03ba88ef9e01a8a27a04b7f8d214dc7364010b5ef40",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=qbZQjprTnrU": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240711 在Stripe构建产品：工艺、指标与客户至上 - Jeff Weinstein（产品负责人）.md",
+      "sha256": "6e6ceacc6aa5b4fc325381b1d5124483ea3615ba291511073353b04cf101b18b",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=D4PDb_C8Dww": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240714 打造世界级数据团队——DoorDash 数据分析与数据科学副总裁 Jessica Lachs.md",
+      "sha256": "d57fef0127fef11658dbd56b5fbf66f07e20d07b423f88c98d68c3add38b2fb1",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=sRukk520Fds": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240804 从Uber和Opendoor的规模化中汲取的经验 - Brian Tolkin（Opendoor产品负责人，前Uber）.md",
+      "sha256": "7a70864df8ec9170851dcdae024118903add221299632e154a84f8458b33e381",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=xOTO98MXG9o": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240818 非传统产品经理建议：自动化用户洞察、反向筛选候选人、决策日志等 - Kevin Yien.md",
+      "sha256": "aca8d106eda122a9d9098edeb6c6f1ae1ba6a482d9115450587c6597c423ea40",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=YrUq8JUkQls": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240908 LinkedIn如何变得有趣——内部故事——Tomer Cohen（LinkedIn首席产品官）.md",
+      "sha256": "d5d32db0e80dc6b5039ff799501bf7bb501d864d15e8cc3cab4c6b6fd547977a",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=hZSh0rs20uI": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/240915 工程师迫切希望产品经理理解的事 - Camille Fournier（《管理者之路》）.md",
+      "sha256": "34c57d604cfcdf69f1d2dea462193d19ec2e236600d005b8870a904d11497c16",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=PoWRYBWSqpU": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241003 像园丁一样思考：黏菌、相邻可能——Alex Komoroske的产品建议.md",
+      "sha256": "b637698eccc738ac89fac3e0fc18a89fc346a3a55b9a3b3dd5fce9adf0f3e397",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=sTYuKgzZoL8": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241027 Meta产品负责人Naomi Gleit谈与扎克伯格的合作、早期增长策略等.md",
+      "sha256": "970b190ca8f465ad47b73545f84cb455930aeceafc55af9a0b4243c895f97ad4",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=93fCvFkY1Lg": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241031 产品管理已死，我们该做什么？——Lenny & Friends 2024峰会.md",
+      "sha256": "46357b0901c48bd6408a5e40df41630b22e6c6ffba968ed3e0befaa6691867fa",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=IxkvVZua28k": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241106 与OpenAI首席产品官Kevin Weil、Anthropic首席产品官Mike Krieger以及Sarah Guo的对话.md",
+      "sha256": "1327b08e87b2937b7c97df3cb1b83704eeaf75accf4bf4f8e813316c256c47c2",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=wbi9chsAHp4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241110 关于SAFe和产品负责人角色的一切 - Melissa Perri.md",
+      "sha256": "1bc45e48c712beb1553bac1cfcad19b914949cc34f6a134c17ed35275a422022",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=oItg64eaRlc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241111 简化致胜 - Lenny & Friends 2024峰会.md",
+      "sha256": "8e7000e0a815661d55e3326a095b020c09b482a11a806d8670a4b161c1f85ad3",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=W1coI_d9MsQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241120 如何正确进行产品评测（通过犯错来学习）- Lenny & Friends 2024峰会.md",
+      "sha256": "2930bdfb211965a74dcbb68a76085259ad394079c344661d07c6bef214cb0c9b",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=UyWTDmDjNy4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241208 塞斯·戈丁打造卓越产品、策略与品牌的最佳战术.md",
+      "sha256": "ffba42882095d627c1eb16efd5dc24a7e791c77afa409adf5058d9590204ca8a",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=XYMvtmPGcmU": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/241211 打造并引领人们喜爱的产品（斯科特·贝尔斯基）- Lenny & Friends 2024峰会.md",
+      "sha256": "8e22ad403829ba2b85ba940d9fa0491a38171b8224e1385a9c7f8a54d45a2239",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=CvC_ZJGNW8c": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250118 打造引人入胜的产品愿景（Ebi Atawodi）- Lenny & Friends 峰会 2024.md",
+      "sha256": "9925150d8f07737d3f572a4f25cbfd4ec3c757e39705c6b151e4e5db90bc7561",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=WFLH8Af2f30": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250126 产品策略操作指南 - Chandra Janakiraman（VRChat CPO，前Meta、Headspace）.md",
+      "sha256": "76e8b7540ed156e58f0af3352eb45ee2b3aeea45dc7a04ddd80c8ad789998196",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=nTr21kgCFF4": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250130 Linear’s secret to building beloved B2B products - Nan Yu (Head of Product).md",
+      "sha256": "e6f83b39a2bf784d5bdac3090025374ec540b805becda222ff0b5f6d803945e8",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=8dgyqYHLcCI": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250227 深入解析X平台的社区笔记功能 - Keith Coleman & Jay Baxter.md",
+      "sha256": "8dc105f07bf62322ff2fcdf61f41b24b7daed8116674b0ef88b1cc9a8d27dff4",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=GF-yUANql0c": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250330 更好的产品规划、构建与发布方式 - Ryan Singer（“Shape Up”创作者）.md",
+      "sha256": "b1606481d46dcb11902b6c5c419c4bd62c31ed7b921c4e2c10cca718aa3b72d4",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=-kPpd21bFrE": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250515 How Revolut trains world-class PMs- The “Local CEO” model, raw intellect & building wow products.md",
+      "sha256": "1092a869f42a591022bd560392e698f7230848f09c1a5b49b80502430fd49f3e",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=UVyfuSBwbNA": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250522 来自币安、N26、谷歌等公司的非传统产品经验 - N26首席产品官Mayur Kamat.md",
+      "sha256": "ba86b8dc2468e455a84b30c94738ee218e59bcc44bb97f9103d490e15c36ac39",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=MnBZlEQ14fY": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250601 为什么Uber首席产品官周末送外卖 - Sachin Kansal.md",
+      "sha256": "fe45f5e12ac14616956d8333e4ca33f1d5dfb8ab8dc3a887b93dcbf83519e1af",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=8TpakBfsmcQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250622 From ChatGPT to Instagram to Uber- The quiet architect behind the world’s most popular products.md",
+      "sha256": "e0c9bf9feb0f60f2c6a706219caa28210f032b1068c21a5ffb554930ba306bb2",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=ixY2PvQJ0To": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250809 ChatGPT内部揭秘：历史上增长最快的产品 - Nick Turley（OpenAI）.md",
+      "sha256": "1edf1146b59c09de732f5106e2eb1e3e6e132506c7bdbd121b7c445a72c2623b",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=e1R_-esuO9o": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250907 AI如何重塑产品角色 - Oji和Ezinne Udezue.md",
+      "sha256": "045d914e8af08031d1b6d5953359abf00d29117851c507ff182a4e7fdbd0ec46",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=tX6nwT1Bsuo": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/250928 A 4-step framework for building delightful products - Nesrine Changuel (Spotify, Google, Skype).md",
+      "sha256": "0212dc713542d17d8f89ebb362e4aea3af6b265c33b26a10b984478ea21553d3",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=kLe-zy5r0Mk": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/251120 Mental models for building products people love ft. Stewart Butterfield.md",
+      "sha256": "3c1a86e687bad43b04164905b79bca1a604c41c3bb8247116afe3b5e316d44db",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=R-zCfLQD_84": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/251204 AI如何颠覆传统产品管理 - Tomer Cohen（LinkedIn CPO）.md",
+      "sha256": "cbbbcaa2c88963fb3988f0818efec14e2f4834c8398ac6f57273d3f8db65ef64",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=1em64iUFt3U": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260118 Meta产品经理如何不写代码就能交付产品 - Zevi Arnovitz.md",
+      "sha256": "a2a64458ab89a87833f7f81aa879985aca80daec1d9537cc63f837a5884668d7",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=7eh9C3TUotc": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260614 成功产品背后的隐藏模式——马克·平库斯（《FarmVille》、《Words with Friends》等）.md",
+      "sha256": "cc627845660ff06634e9c014f68eff1200389b4b0b3f6885c4f307e4e2339bfa",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=ruvis-VWg2s": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260802 这位CPO遗憾产品管理存在——Tom Verrilli（Whatnot的CPO）.md",
+      "sha256": "9052f9f53ad97d96c6e302971bfcc5a465eccb2515fc96e4f1100c4f744202ea",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=97LRJUUPy_w": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260920 Snap和Discord产品负责人Peter Sellis90分钟无过滤的产品建议.md",
+      "sha256": "9a84d12bb737cf1c4d45caff6b85654d29dedf281714b400a3144849004cb0f0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=VM5kuvWgwDY": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260924 大家都在发货。这真的有用吗？——克莱尔·沃.md",
+      "sha256": "ed0a3e7d7b252b2e5ea8a454605292f73c3e7e534aed76afdbcea670a5258e58",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=DqF08Dz3nok": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260924 如何像研究实验室一样管理你的产品团队 - Dan Shipper (Every).md",
+      "sha256": "1d437a24f64ac726203d1e653ee1bcbfc8de41d868e72c433f551b5aa579514a",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=fF3lkTCM5-c": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260925 Marty Cagan- Strong Opinions, loosely held.md",
+      "sha256": "dca5dd283ea8ac18a0a104d6b75c98935e478fd6e1acf94458ffcfc5039f8a49",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=-ciSTkEVy30": {
+      "source_path": "youtube_transcript/❶ 视频转录文01 产品管理与产品战略/260929 别再为2027年做规划了——OpenAI如何以90天为单位打造产品（Tara Sesha和Nan Yu）.md",
+      "sha256": "d0e5974995739ae26335cb481522fb6318cada56ca83dfae61019f88f213234e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=lYaiyi2ZX6Q": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220731 如何粗放式招聘、衡量并释放增长潜力 - Crystal Widjaja，Gojek 和 Kumu.md",
+      "sha256": "81ea51f97842b100557670aa2b35e46ea3256e779d26696bcbaed3e5f225c194",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=mJEWns2hyDs": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220818 打造传奇品牌的艺术 - Arielle Jackson（谷歌、Square、First Round Capital）.md",
+      "sha256": "9be1538ac89e73700a94368b27fce6018e6254653dc6fb81c9c0272fb436ba74",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=8-iN7sweFBM": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220901 如何发展订阅制业务 - Yuriy Timen（Grammarly、Canva、Airtable创始人）.md",
+      "sha256": "687a7e44b1c4a1034fd839e013f41be89d9d474972f7e9ec656fa1b504903b49",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=gzs61z9Fekw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220911 How to build a powerful marketing machine - Emily Kramer (Asana, Carta, MKT1).md",
+      "sha256": "5ffa7e67cb082a524b91cabfd75bce25c86bca0e28aef78ee78529a811428115",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=-PDsvl2WCZU": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220915 何时投资新获客渠道 - Adam Grenier（Uber、MasterClass）.md",
+      "sha256": "b414702c82be757921586923b80fbc932b90cd024821d205daea6fb619c7ad40",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=UTmFuSZfJ9U": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220922 为什么产品驱动增长是未来——Elena Verna（Amplitude、Miro、SurveyMonkey）.md",
+      "sha256": "868693639871ae73763332e474296d32167ac4437b3e6185c8a5b1d331ff2221",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=0FgZ1VVxEBo": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/220929 客户驱动增长 - Georgiana Laudi（忘掉漏斗）.md",
+      "sha256": "5ff41b67697570ccb9405e519c5ca9d5ac4cb55e2084a0692fde1af7a0b7fcda",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=AlTQ6O2qooI": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221009 Developing a growth model + marketplace growth strategy - Dan Hockenmaier.md",
+      "sha256": "1d817a50a880d20d1198847c6c8cea686ade711c351be7b5280136d9df58d1d9",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=wP8YyWH524A": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221013 如何打造高绩效的增长团队 - Adam Fishman（Patreon、Lyft、Imperfect Foods）.md",
+      "sha256": "9ae28182ab61c2e1df539f02111deefc534903088e8196be25d305eedf3d65d0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=gCEaUfZUuI0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221027 品类创造与品牌建设——Barbra Gago（Pando、Miro、Greenhouse、Culture Amp）.md",
+      "sha256": "a9cbdae8f2b611c92ca6427d0eaedb4c8efb86a59e6888b1f815783978f12a24",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=21sFTZzIfUk": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221106 Snyk如何打造产品驱动增长巨头 - Ben Williams（Snyk产品副总裁）.md",
+      "sha256": "8500616b4e508efbfed4967c3c4c94d0e35617873f16e34ba398eff98a432295",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=mOY159TlYXM": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221201 SEO终极指南 - Ethan Smith (Graphite).md",
+      "sha256": "77bb661f0a8aa94c56ac5a8c5509ff46b3a6b74aefc6b317a1264a9af5a96d3d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=pYZ0S7a72po": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221204 如何在经济衰退期实现营收目标 - Sahil Mansuri (Bravado).md",
+      "sha256": "b66baef9e4c1cf8f0207df374107f5fafab94293923449050b5434692abeb85e",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=A6veeCbKIzw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221208 定价的艺术与科学 - Madhavan Ramanujam（《货币化创新》，Simon-Kucher）.md",
+      "sha256": "839fd2635acc00158191dbcfa0f7a160cd8601bcb2bb3bb713a86e15c8562b4f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=cZd5234Eem0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221215 创始人主导的销售 - Pete Kazanjy（Atrium 的 Founding Sales）.md",
+      "sha256": "83c9e7a0403f3c84d94de2a2aafd3c7598e615c11b2746b676a9ae41f5048105",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=kc1XhB4k0Eg": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/221218 播客的启动与成长——Chris Hutchins（All the Hacks、Wealthfront、Google）.md",
+      "sha256": "7d477b22b488c03acaab0115284f58e68967fe29614a79b9d3c8f39cd3c28bd6",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=xvQadImf568": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230112 如何为你的产品定价 - Naomi Ionita（Menlo Ventures）.md",
+      "sha256": "6682d41cbae963f4b23e709879a0ca9f1d560007dd0a85a72321d7305e93c89c",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=PzTTum1gkGs": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230120 产品驱动增长的B2B公司若能掌握这一步骤，便能取得成功 - Elena Verna.md",
+      "sha256": "4e01a8ea3f4a08fb331a44cf4b0030b4e743f5a20145adc54962c3b8859925df",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=hdjlCLb9Hl8": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230122 How to nail your product positioning - April Dunford (Obviously Awesome).md",
+      "sha256": "af344973aded3385b1a741f5d834562da35109800708468d409ed9739bcc75b1",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=0P8LMyeYl1U": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230129 Airtable非常规增长策略的启示 - Zoelle Egner.md",
+      "sha256": "65f922c6d70ada1be6a6fc0794fce9cfc4b949f1802321412e2d6bdf21ae1ad3",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=dLku0AiGPVA": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230212 掌握入职流程 - Lauryn Isford（Airtable增长负责人）.md",
+      "sha256": "8cb4380cccfe14ba3e852f3df6457fea771a8fa108504f4d89195e98f38114e0",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=-tUIGpgmsZw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230226 Behind the scenes of Calendly’s rapid growth - Annie Pearl (CPO).md",
+      "sha256": "e0c794ec55ed583248abbf800d09f29b8b199a0b01fe2f3eb55bad493957e2d4",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=LTSEOeKV_Hs": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230323 驾驭沟通与公关——Lulu Cheng Meservey（Substack，动视暴雪）.md",
+      "sha256": "c15cfa4366ddc4e4fdde723b8c6a5b9c5431e46dc4e5a4f06b75369f5e118c80",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=qKXIBE7KRGo": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230327 以弱者身份赢得关注：Lulu Cheng Meservey的框架.md",
+      "sha256": "f867c837ba1de93d4e0b3964df4b4cb42d5fbb94b9299e3a409f8912c0fdeab0",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=7l1fIxk7SnA": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230402 添加PLG动效的终极指南 - Hila Qu (Reforge, GitLab).md",
+      "sha256": "763df67f024e8743bae83cd1da0af8bdf8a2a245dccdb359bc1c779b0ed03346",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=bxghtN-OlJQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230423 产品驱动销售的终极指南 - Elena Verna.md",
+      "sha256": "5e7146cb77f927000d510e5dcb267cdf370965672be73059456a7040af1c4af9",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=mmxTeS0AVMo": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230507 掌握付费增长 - Jonathan Becker (Thrive Digital).md",
+      "sha256": "b75179b649eb69d940b568b3e23528d789995bbbefcb3852bc2ce0889fe0419b",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=rG4zxf0CAv0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230512 拿下Uber作为客户的疯狂故事 - Jonathan Becker (Thrive Digital).md",
+      "sha256": "f5a9afe6a1d3205546885038855fdda8497fbda3944f7e0f2022503e4b558e81",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=Xf_ZXIGCQb0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230615 利用增长顾问、掌握SEO并精进技艺 - Luc Levesque（Shopify，Meta）.md",
+      "sha256": "8d947c6a059170e9b4cbb8d4f45391210274a4f884c8b4c84bb054681b77ae0d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=hEzpiDuYFoE": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230727 The ultimate guide to A-B testing - Ronny Kohavi (Airbnb, Microsoft, Amazon).md",
+      "sha256": "f7ac8d9eea155de359099df113ce55c2681c07b3d268ec39255387882597e89d",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=SzKKJwuRFZI": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230810 不懈的好奇心、极致的责任感与HubSpot的增长制胜公式 - Chris Miller.md",
+      "sha256": "ab96cfe441c9842c322cd3db93a8e80c61d288fe6e78783c41da98870cea2c04",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=B79p85DHLkU": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230813 The ultimate guide to Martech - Austin Hay (Reforge, Ramp, Runway).md",
+      "sha256": "8d3cacf3941c43188bf3ff29b52699027a9a51f8c5a15eef6acdc16fd1afd6a4",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=oB-BjEjxHNw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230820 变现热情、扩展市场，以及来自创作者经济老手的真实故事 - Camille Hearst.md",
+      "sha256": "8ee075f1f50b18a3752f1a8f4f75da839b0ff15779a665400eb599fb1934f535",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=C1_sM0_ds2c": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230827 An inside look at Deel’s unprecedented growth - Meltem Kuran Berkowitz (Head of Growth).md",
+      "sha256": "775bade3e866ea846e4d5eeee0bb414b88e04e98b93d33db50f5144c378b2ecf",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=UmirRfy-gzA": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230907 深入解析 Figma 独特的 GTM 策略——Claire Butler（首位 GTM 员工）.md",
+      "sha256": "45462e0359c09ff16f53aacfbc64de394708fdaffee3ba8ae5ecafd9c9878540",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=xZifSLGOrrw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/230924 如何驱动口碑传播 - Nilan Peiris（Wise首席产品官）.md",
+      "sha256": "f254e381bfbb6af3cff0d0363c792d8f22f8d055dab6bae6604533540424c838",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=LZLdoAq3R7Y": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/231012 如何为你的产品获取媒体关注——Jason Feifer（《Entrepreneur》杂志主编）.md",
+      "sha256": "551889d028d3c129d3e7b44e801a1ae811682789625dd1e4f38505d4e7a3bc57",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=-VqmFI9vY7w": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/231022 A step-by-step guide to crafting a sales pitch that wins - April Dunford (author of Sales Pitch).md",
+      "sha256": "3b8dea25075c533d8af9396686f77529e2c2eb5a6202b59ba2d550679feb3e36",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=BVzTfsUMaK8": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/231109 来自Uber、Airbnb、Bumble等平台的启示——Ramesh Johari（斯坦福大学教授）.md",
+      "sha256": "56c2396f8123793bc7b5ae8df679f67c539f09355ddf26f1b9068381ffe72b89",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=H9g4pzcz6Tk": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/231227 参与度层级 - Sarah Tavel（Benchmark、Greylock、Pinterest）.md",
+      "sha256": "e72090c6d4a6804a96cfadfb88b7a912d4b1b5f47f2f868eebbc9a4b959b36f9",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=eMe_FWldQF0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240218 打造世界级销售团队 - Jason Lemkin (SaaStr).md",
+      "sha256": "2c0dcdf808f7cbc30cca199cb5159fed2dab22e84f7d3f330f7208f9488f0083",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=jW9GzaaRPxk": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240321 The ultimate guide to PR - Emilie Gerber (founder of Six Eastern).md",
+      "sha256": "8e8227149a3bf5be8af81e187dc4576a13ed6e8ed6e29477a1146dec1b986eb0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=cUzEgRetmC4": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240530 成交背后的惊人真相：基于250万销售对话的洞察 - Matt Dixon.md",
+      "sha256": "a812e0400163c89424ce866a13301a0b6c3799cd1554eda61f168259cec0d1b5",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=YErOtGMgTNg": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240721 大多数人忽略的营销真相 - 罗里·萨瑟兰（奥美英国副主席、作者）.md",
+      "sha256": "e2ee1979b057c5a6b0df05f39ff37b3706fc0b7378fe24223f29b8432d5313fb",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=zNJyb3R_Pnc": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240728 付费增长终极指南 - Timothy Davis (Shopify).md",
+      "sha256": "cc4ff0f5dd578faadd6f6b12e252ceeb304840326bd6b74492bd1cd78eacd930",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=bhnfZhJWCWY": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240825 如何持续走红：Nikita Bier 在消费级应用中的制胜策略.md",
+      "sha256": "84a074685502e22453c33359c85c75bafdfe0f018129fec284099ab96245efd2",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=VjJ6xcv7e8s": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240905 增长黑客创始人肖恩·埃利斯（《增长黑客》作者）揭秘其成功秘诀.md",
+      "sha256": "cc460b69567bff518773c1cb2f1f1341ea327acc3f74d145be968da3c1f17db8",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=Z71yGshPTwk": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240919 在AI时代重新思考SEO - Eli Schwartz（SEO顾问，作者）.md",
+      "sha256": "ef94c0bfb5fb53b41898d863acf6bc8593b8e51a177cd7bfd13a8aa4b5cf4ee9",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=CYwgStMln6U": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/240929 市场平台如何胜出：流动性、增长杠杆、质量等 - 本杰明·劳齐尔（Lyft, Thumbtack）.md",
+      "sha256": "b6c321329f04dea1227f278aaa04be2bdcc9369cefe7298197b5456e744219ae",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=ywkwUvJlFn0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/241103 Just evil enough- Subversive marketing strategies for startups - Alistair Croll.md",
+      "sha256": "42d0171a61f069b0f7bdb24239dc0e4831c35f5bcbca8b91d146a621c5398136",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=Vlph3dn4jnU": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/241107 打破增长规则：Shopify为何禁用KPI、优化留存率并优先依赖直觉.md",
+      "sha256": "f8f9263dea407690b3e1454d0582b6b2b66fe535777c9e7c32b9499644397f53",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=969dwgu98qc": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/241124 The ultimate guide to founder-led sales - Jen Abel (co-founder of JJELLYFISH).md",
+      "sha256": "998f5be3da526c8303eefef3b5c2f3ccd7e77ce62ca2d01502eead1773c48eaf",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=_CCwoQZH5hI": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/241215 产品背后：Duolingo连续打卡机制——Jackson Shuttleworth（留存团队高级产品经理）.md",
+      "sha256": "22dfa43f6f76eb3d50121762d2793005234f05b01d72612cfc8fb405c2d8d45b",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=IHwS2By9UKM": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250119 10个永远行不通的增长策略 - Elena Verna（Amplitude、Miro、Dropbox、SurveyMonkey）.md",
+      "sha256": "335b9fb6d726daf524749d6b3e340782cb65aa02eef28e5a44f020f923569105",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=QaDsk4iH1aw": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250525 OpenAI和Stripe首位增长官Krithika Shankarraman的增长策略.md",
+      "sha256": "ab798111bbbef157bcbe750d7b21e135ebe660a11db4100e7f2fc50ea012dc8e",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=adyIaTopO6g": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250629 命名专家分享打造十亿美元品牌的过程：Vercel、Azure、Windsurf、Sonos.md",
+      "sha256": "ca71ef1449ab020fd446b04bf8188da13367f5c429f5ac41488e37a92a824971",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=NR85H55eYkM": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250727 AI产品定价：来自400多家公司和50家独角兽企业的经验 - Madhavan Ramanujam.md",
+      "sha256": "2960cc0bb1d9dea4db0867aec2562a686f3be12cb83c743635a68dd6039ac3f7",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=cX4cL6B-_aU": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250817 Why ChatGPT will be the next big growth channel (and how to capitalize on it) - Brian Balfour.md",
+      "sha256": "cbc738eba9ed036ee4b599a42889578878b439d5d5007c7e92ff0eb9e135c62a",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=iT7kq-R3Gjc": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/250914 AEO终极指南：如何让ChatGPT推荐你的产品 - Ethan Smith (Graphite).md",
+      "sha256": "e3dca751837c43165e7edc2256ad40bf3f8c3989af954b2518fdadd8f8a30af0",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=2BKmNmnEj9w": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/251005 在您的产品中寻找隐藏的增长机会 - 阿尔伯特·程（Duolingo、Grammarly、Chess.com）.md",
+      "sha256": "099172de7e53c29a77c50c28525544fa4160928359a01cb7e03f7e71e004d5cc",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=37fKFWdrMyA": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/251109 $1M to $10M- The enterprise sales playbook with Jen Abel.md",
+      "sha256": "2c4b2221a7a1b5afa0870800b586740c1b4364863f31d060f81a9872305ed759",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=RmnWHz8HD74": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/251130 2026年的世界级GTM是什么样的 - Jeanne DeWitt Grosser（Vercel、Stripe、Google）.md",
+      "sha256": "7e33204756db5ac205dfc14fa9abb41c52babf94195c741e384d5f4dd3f7d2a2",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=6qAB6aUMIeA": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/251218 2026年AI增长新玩法：Lovable如何在一年内实现2亿美元ARR.md",
+      "sha256": "cdce0755c89f13287be84322b20e28f82bd8ace4a7e365c5aa7feecebc014cb6",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=k-H4nsOTuxU": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/260405 增长负责人（Anthropic）- Anthropic正在自动化其自身的增长.md",
+      "sha256": "a74326d9d1ad8b4f2386e0c9197b3951f16b966acc5f21a8ea0a315a56d2f283",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=YS9In813jJ0": {
+      "source_path": "youtube_transcript/❶ 视频转录文02 增长营销与商业化/260823 84分钟的企业销售干货 - Jen Abel.md",
+      "sha256": "08b758c5c9bad7fd3ff989a3b89fb5672a39a978ae558127e4d821d9adac0b15",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=zKP2HrMc23s": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/221030 打造Substack - Sachin Monga（Substack，Facebook）.md",
+      "sha256": "71b364d60da212eb0474a658731fcfe6d365c2bc3ff8d104a85c03a0c9570a41",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=bY5KC9Gguz8": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/221211 Notion如何利用社区打造100亿美元商业帝国 - Camille Ricketts.md",
+      "sha256": "d9026ef83deb7ff10cad7bddd825d68d9a8a314b6242730620d8693852156fe7",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=FjLSCrSg5QY": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230219 10 lessons on bootstrapping a $200m business - Patrick Campbell (ProfitWell).md",
+      "sha256": "fce50c364637a93529da52bf170006578b999871c56f727515b64ebf78f04f3c",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=ZoKLofsp8u0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230302 与600多家YC初创公司合作的经验教训 - Gustaf Alströmer（Y Combinator，Airbnb）.md",
+      "sha256": "0346c64471c127a94f2ea33cd46f66b892d21eefc64d7ad443a6ed42fd97a967",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=Mv0o9o4MRh0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230305 Stripe规模化扩张的启示——Claire Hughes Johnson（前Stripe COO）.md",
+      "sha256": "f7db907589327fbffee5d025ca2c6f459c5bf484209330dadbd9019eef1d3f7f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=HsD5ycT_umw": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230312 Hot takes and techno-optimism from tech’s top power couple - Sriram and Aarthi.md",
+      "sha256": "35f6c7e93b27278f84815c8fc46c724f3d6ef03cc79a0f8f5a2ee0882e4ea651",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=AZpo5785v8A": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230319 Competing with giants- An inside look at how The Browser Company builds product - Josh Miller (CEO).md",
+      "sha256": "0e771408448192e4558c97966f34d7d4a538cfe322b5e2cc21013a71824bab8c",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=HVB-dqjUJks": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230326 出租车黑帮、现金金库与100%的月环比增长——东南亚最大创业公司的故事 - Kevin Aluwi (Gojek).md",
+      "sha256": "3642570b25de8758f2be61a24f572c0244bcd97dcd980b9d02f90835a752926f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=WlRfyEpAKxw": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230414 Why most product managers are unprepared for the demands of a real startup - Casey Winters.md",
+      "sha256": "6307556ac9a912a33109847072a1adb8b84c09b2fa3c96fedeeb91b3ca1b8946",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=dkVJnaxDlXE": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230528 战略叙事的力量 - Andy Raskin.md",
+      "sha256": "6243d1b0f5d42f582bbb7a5c44d223cf5a8ca2f1cdeae73096dfa81151e8195c",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=CsruQYKISYI": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230604 快速行动并驾驭不确定性——杰里米·亨里克森（Rippling、Coinbase）.md",
+      "sha256": "082cebed8816435694888316a4cc81342c957d3e058cd06bf0dc1edf2d99d6b3",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=RcYCU5UAZOk": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230625 从Ramp的规模化中汲取的经验 - Sri Batchu（Ramp, Instacart, Opendoor）.md",
+      "sha256": "515a9c668ad2a3edc31e5a64b8fc961a9ee25fc1fb58cd600f72d66e5957bdda",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=y9hmrMBRPDI": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230713 并购、竞争、定价与投资——Julia Schottenstein（dbt Labs）.md",
+      "sha256": "b6d126a00e7ad2886d49f1ba7ca24969d4957a4d6c0b108cf3d57f227925682e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=aNJDZ_RzTVk": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230806 速度至上：Ramp如何成为史上增长最快的SaaS初创公司 - Geoff Charles.md",
+      "sha256": "062484791a9f9ed5455bac3db8399856f8c7f8f5b251d87c70d3510d5e00bfd1",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=mS4B541m9xg": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/230917 如何成为品类海盗 - 克里斯托弗·洛赫黑德（《Play Bigger》、《Niche Down》等书的作者）.md",
+      "sha256": "8e1c525851d91e164913119eab1ef9f6ee07ab0985a454a9ddc2cae17a8b1b46",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=PAF7KPxhvs0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231007 The kind of surprise you actually hope for in a startup!.md",
+      "sha256": "ac59f3a18bcace47cbd492150009149940696656243f1740803f9273b9e6d5d2",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=xzebbzIntFc": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231029 对一场运动的反思——埃里克·莱斯（精益创业方法论创始人）.md",
+      "sha256": "8669422e249d96dff6db8e05f94ec10f21aae9f46e7dd3278e5058ce6cd4b6c4",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=4ef0juAMqoE": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231112 布莱恩·切斯基的新策略.md",
+      "sha256": "a70eea61684d98bee99850b584846032bd71cfece55da28cdddbf8adefefcd9b",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=maK0XD9ARoI": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231126 十亿美元失败与成功——Tom Conrad（Quibi、Pandora、Pets.com、Zero）.md",
+      "sha256": "8be66b6470aafab46c96a96388d94a06322d96c1aab3f8c82469d91bcab0f62f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=dAnF0tk0di8": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/231217 Jason Fried challenges your thinking on fundraising, goals, growth, and more.md",
+      "sha256": "3cffdd05e8c7653b63a7341dce24893572ac7e1395609dcc9d8e58c4633ba4b0",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=4uWKEG0s9Kc": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240121 Good Strategy, Bad Strategy - Richard Rumelt.md",
+      "sha256": "f380c425c1632e6e163502e6df870aa448a1f707b6bf9facfd063461f882ff36",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=RBbINB5HSHk": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240125 Geoffrey Moore on finding your beachhead, crossing the chasm, and dominating a market.md",
+      "sha256": "aeb03ed3617a80bf80863aa83a446957e6703894e22e31d6a2c59c502bb7c28c",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=EgBOVDzUUAA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240324 Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more.md",
+      "sha256": "84fba44b61a9a2e06e8c1a0f29ecbbe613c718fb035bd2b5b743087033f8b05b",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=dpw9Ue1HU48": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240404 Zigging vs. Zagging - 如何打造一家300亿美元的公司 - Dharmesh Shah（联合创始人兼CTO）.md",
+      "sha256": "70fce5b75fa7b08620f64275dc16c99bbaab1542f0530e3277b11ad1cd647726",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=m7LvNTbaqSI": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240418 来自1000多家YC初创公司的经验：韧性、陷阱型创意、转型等 - Dalton Caldwell（YC）.md",
+      "sha256": "f6c377756e13ce139bc0edb8de7dff79448e3a372e5ea64cb737aee1d226c56d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=hKq1_KPSqy0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240505 与《7 Powers》作者汉密尔顿·赫尔默探讨商业战略.md",
+      "sha256": "640b685e9fc2b14f55b3f2c3a84bffb2de84ea50b442183a0e2fc7862c5a3790",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=8A7wXK2MncQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240516 从根本上不同，而非渐进式改进——Jag Duggal（Nubank、Facebook、Google）.md",
+      "sha256": "c0929b0836d6ec506b74b9438f98c352e9952265ac631df892e3e059914d790f",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=Cj4ORGGEJcA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240609 两次独角兽创始人、50次创业顾问、20次董事会成员——Uri Levine的经验教训.md",
+      "sha256": "f95b0c4ac0c78143eb72674622c7dc2412a89c9fe410cf259937dbac6ad32cd8",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=h9MUuhsDJOM": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240627 社交雷达——Y Combinator的秘密武器——Jessica Livingston（YC联合创始人、作者）.md",
+      "sha256": "b1482ab024bbcf4232ef9f9681e62a8ebe1e2314fb15ccd2bd95f2bcc04abd8b",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=h9o6gPQA6LA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240707 打破常规：如何找到突破性创业点子 - Mike Maples, Jr.（Floodgate合伙人）.md",
+      "sha256": "bce4dcd912cff6ef3b772eb7427e7c252e9626e8d4b465a88f1a33088dc39c94",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=y7SN4FK8noY": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/240725 打造制胜战略的5个关键问题 - 罗杰·马丁（作者、顾问、演讲者）.md",
+      "sha256": "f559c7e89699b968781bec60388d2d5f7b3318368164e74f850abe63ce1305d0",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=vnW3zIkrOvY": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/241117 Building Wiz - 历史上增长最快的初创公司 - Raaz Herzberg（CMO和产品战略副总裁）.md",
+      "sha256": "ab50fa1e076a33bad393ecc8f685ab4afcd81e6ac38fa844d44fa0ea31dd9a1e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=Bp_h674oIhw": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/241121 产品背后：Replit - 联合创始人兼CEO Amjad Masad.md",
+      "sha256": "e05545fe88120cae267ceca700dd357bb01a518c0b8eba22f46405184c136788",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=tOGK1nlHdFo": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/241222 创始人幕后：马克·贝尼奥夫.md",
+      "sha256": "e55126d81996f07f81f9eeece50d4770b9004dc7ef089edb7ed42da1dd451c1d",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=egdYKLBswgk": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250109 创始人幕后：德鲁·休斯顿（Dropbox）.md",
+      "sha256": "560cb7e5f3139a2f46617422988bd189b02dba537bb185e9c4f1c644eb7c37db",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=lQdogVBHMdA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250216 创始人危机管理指南 - Uri Levine（Waze联合创始人、连续创业者）.md",
+      "sha256": "25ff2c994243668fcd542f93923933a5b241e333d22074a1ab1fcf19016be65d",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=Fves5chVZRA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250302 马特·穆伦维格谈开源的未来以及他为何挺身而出.md",
+      "sha256": "183a9e00d8f027364df237d9f732f7082dd6102865a1aefd2dcc3fd7caf895cb",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=IIPKMixTMfE": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250306 Notion的迷失岁月：疫情期间的濒临崩溃、保持精简以快速迭代，以及构建横向扩展.md",
+      "sha256": "1f829d437038c7f452c24165d5130ec518f5d8e33f94daa10ef59cca1552dddb",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=DZtGxNs9AVg": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250309 构建Lovable：60天内15人团队实现1000万美元年收入 - Anton Osika（首席执行官兼联合创始人）.md",
+      "sha256": "99afa3992aa9ef6e28a70404aae45e73a9d9f0437485bb1dc50683bd1bca637a",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=L22DtAHLmzs": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250313 Inside Bolt：从濒死到成为历史上增长最快的产品之一 - Eric Simons.md",
+      "sha256": "dd9736d5672b3d6f0ce673435d56d1cd8c8122a05e3859490639edff1b87e86f",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=0igjSRZyX-w": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250323 Superhuman's secret to success - Rahul Vohra (CEO and founder).md",
+      "sha256": "faa80d155f885677e25cd18d1743eca2e3d2681d0512940845e31435cbdd8726",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=xQkSenlJvwA": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250511 Palantir如何打造终极创始人孵化器 - Nabeel S. Qureshi（创始人、作家，前Palantir员工）.md",
+      "sha256": "c9af01e2919435c88c5b1b29cd77adef91404e316cf7d19ca2e9116bcf9e0a58",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=VxAwUb86MUE": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250703 我创办了75家以上的企业。以下是你很可能在追逐错误理念的原因 - 安德鲁·威尔金森.md",
+      "sha256": "9b0f907ca726a1e811425944e18b053de317a2bc861d8886b376e237b1afbd21",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=L9KvV_UOs3A": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250706 独立创始人，8000万美元退出，6个月——Base44自举创业成功故事 - Maor Shlomo.md",
+      "sha256": "922417daa19d78c600e36d8c0b8604051edac495c8fde242b2bc248ae15b4ce4",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=UbjAOCzpNWc": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250713 用2天基础冲刺快速测试和验证任何创业想法.md",
+      "sha256": "7941229fa83a5eabe51dfc09a01f320b3751da017489241664251f3f1b9b4994",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=crMrVozp_h8": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250717 AI原生初创公司：5款产品、百万美元收入、100% AI编写代码 - Dan Shipper（Every）.md",
+      "sha256": "27e71cec7a2a05caebe9e639fe033826e8c8f3db6a8c4e492209f609cae4c655",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=qImgGtnNbx0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250731 他拯救了OpenAI，发明了“点赞”按钮，并打造了Google Maps——Bret Taylor（Sierra）.md",
+      "sha256": "483a2df57833ec2419fcf6e1298f97412b37d89436b9119f9ee6a16512b75dd8",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=R5_ypwiRIyo": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250803 布莱恩·切斯基的秘密导师：九死一生后打造酒店帝国，助力爱彼迎腾飞.md",
+      "sha256": "a845e590c05bd961b10ed7870ad69b801fe1b4f894d58eb49ffff3c9e18549a9",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=J9UWaltU-7Q": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250828 Asha Sharma：8万家企业如何用AI构建产品？从“有机体”到组织架构图的消亡.md",
+      "sha256": "369ee5a30ead8a66fe58612ebbf57ea2061f62516d8393d205a63d6f3be8c456",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=KPxTekxQjzc": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/250911 460亿美元的残酷真相：创始人为何失败，以及为何你要直面恐惧——本·霍洛威茨（a16z）.md",
+      "sha256": "5031e068b4d57b189d5b75b68979690b7d49f12acec96529d51dd171701180b5",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=W99jdYZOlN0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/251009 Scale AI CEO on Meta’s $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next.md",
+      "sha256": "238b01b1fa077c2234294582f7166370b1faa67cdf75c8b7a4b093879dd94751",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=-LywX3T5Scc": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/251102 她如何将100多次拒绝转化为420亿美元的公司——梅拉妮·珀金斯.md",
+      "sha256": "2999e183ad5771406281313b9cdfdb18d83be3dab707ba4d5215dd0f3186b6e4",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=3H0ngGU5pbM": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/251113 “听过最蠢的想法”到1亿美元ARR——Gamma的崛起内幕 - Grant Lee（联合创始人）.md",
+      "sha256": "b1566d6c72857574e407ebebabd300c2ec9e4af496c6aad605428b5b3ae1ec65",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=I-R1bc1rlFs": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260101 We replaced our sales team with 20 AI agents—here’s what happened next - Jason Lemkin (SaaStr).md",
+      "sha256": "c08e02114a9ab71233c704541dd08b8a679a6d8e30aefa451076220a2b9810d8",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=8xLquwfx6p0": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260125 两位独角兽创始人Jason Cohen（WP Engine）的惊人建议.md",
+      "sha256": "7c2fd78aab76af16b0cac38126d305f98aafa91402fffee172514a3ac2c5baaa",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=3UyitfSbY6c": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260215 How to be a CEO when AI breaks all the old playbooks - Sequoia CEO Coach Brian Halligan.md",
+      "sha256": "7aecbdf23db386f3249794e596dbf9ba8c5e1f062436a1dcd056f660fd91ff4b",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=xCd9ykretlg": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260412 构建AI时代的残酷真相 - Keith Rabois（Khosla Ventures）.md",
+      "sha256": "847607cdf37f745047e3198a844480c9e6f367b3d268c02817cd5c390d6b55e1",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=-7Yol5vX5xw": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260426 当软件不再是护城河时如何取胜 - 埃文·斯皮格尔（Snapchat首席执行官）.md",
+      "sha256": "2cdd48128a27d4e42112751084aa12939c196a414a87450a5c6a737388d595c5",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=PoJ1vTdHpks": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260510 Anthropic、Costco和Patagonia如何打造不可腐蚀的企业 - 埃里克·莱斯.md",
+      "sha256": "85666cf35725ddbe3311c5628381a29885f0a3bf3cf72d709b5817073a3cdfd9",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=LdIyXiq2DTY": {
+      "source_path": "youtube_transcript/❶ 视频转录文03 创业公司与商业战略/260906 为什么公司正在变成一个又一个循环 —— Anish Acharya（a16z）.md",
+      "sha256": "b89084665c5d952bbe843200086e41eb1a341ae25d22513682799f456132a46f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=qNPPoj1qUG0": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/230205 AI与产品管理 - Marily Nika（Meta、Google）.md",
+      "sha256": "e7fbac0577166484cdae285d798d97c99fc5a890df044c198a76bef834cba714",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=XrRlVOWe5GE": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/230723 优秀产品经理的10大特质、AI与Slack的产品方法论 - Noah Weiss（Slack, Google）.md",
+      "sha256": "80a9879f311a6e9e114b9bd9a22743bcf88163a66b431374db85193d40b69488",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=dP8NmcEkxJI": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/230730 如何衡量和提升开发者生产力 - Nicole Forsgren（微软研究院，GitHub）.md",
+      "sha256": "66beb103875e97f0b12f2b8a07d25b0cde9ea9649aa81c235601c4d6fbfaed8a",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=f10s3rxKaJw": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/231201 AI在软件开发中的未来 - Inbal Shani（GitHub首席产品官）.md",
+      "sha256": "0f9d541c0f995a1e9815b4cab7bac733c8879d881d3d0ffa8235a2165f44fea0",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=XkMbkWG2ca4": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/240208 深入OpenAI内部——开发者关系负责人Logan Kilpatrick.md",
+      "sha256": "be5533d4aba0cbe0cc1bc57d6c3d995064ede47e693e5b3d6f354a764f5f8e5f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=_XqDB2Upr3s": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/240303 Making Meta - Andrew ‘Boz’ Bosworth (CTO).md",
+      "sha256": "0d0cbd28fceb7a421e159c9e5cafd826e7b112abc3d395d431853431bb15bfcc",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=ZoSeOltKqQk": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/240926 从Glean、Google、Amazon和Slack学习产品领导力和AI战略 - Tamar Yehoshua.md",
+      "sha256": "65c221549987a72bbcbe34a1db82f5c0eec95ccf78c88e15f4e14fa6cc0d960b",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=sOyFpSW1Vls": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/241010 产品背后的故事：NotebookLM - Raiza Martin（Google Labs高级产品经理，AI方向）.md",
+      "sha256": "6fc2a232e0481dc1b86d498ac9a5c854708bfdef6aefa6c5f812a2d965d17587",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=E_rNotqs--I": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/241114 Becoming an AI PM - Aman Khan (Arize AI, ex-Spotify, Apple, Cruise).md",
+      "sha256": "ac5f717c20f7229ccf3872c8cfe2dc3e4bceab49c0dda94273b07e1a63c998f7",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=yVS1gTAQYSU": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/241229 为什么优秀的AI产品都关乎数据——Shaun Clowes（Confluent首席产品官）.md",
+      "sha256": "3b2d126651033482f487696d8d97f30b1fcf674d080e2cf83cac43ade42fe61b",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=PDobJV8wh1g": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250327 如何在AI时代胜出：每周发布、拥抱技术债务、无情削减范围等.md",
+      "sha256": "8aeb19b5ab39b29ad9415dce5ecbe0ee38c2147faf04995807bc27328c0cd483",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=scsW6_2SPC4": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250410 OpenAI首席产品官凯文·威尔谈AI如何重塑必备技能、竞争壁垒、编程与创业策略.md",
+      "sha256": "9b86b4cadbc1cc3623076f49b146ec02cebdd51988ccf04840ba5709b4ad8c5f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=-QsTmu2CqhA": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250413 人人都是工程师——Guillermo Rauch揭秘v0打造1亿开发者的使命.md",
+      "sha256": "32dda8d35396eaddeb2e46d96c3ecc9eb7309fb9bea3ed517f9fc0df10cbfa69",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=5Z0RCxDZdrE": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250420 4个月内被超100万开发者使用的魔法AI代码编辑器——揭秘Windsurf.md",
+      "sha256": "7486f15abf865020ca6a26ab256291c701ffa2560c871450b0e768fbae097925",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=En5cSXgGvZM": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250501 Cursor的崛起：工程师们爱不释手的3亿美元ARR AI工具 - Michael Truell.md",
+      "sha256": "5288504fd356732fb0f7aab07326cae7bc7eb0fa2916ee748eb78c33622d1741",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=gI0ZNhA0rvE": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250504 Devin内部：这位AI工程师今年将为公司编写50%的代码 - Scott Wu.md",
+      "sha256": "2ab9632ec2ccaea8b3cc7d50f4221b3b0057b0fc50f74d9ff7c80e1a0345729a",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=HbbfXAWcuUo": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250518 微软首席产品官：如果不使用AI进行原型设计，你就做错了——阿帕娜·钱纳普拉加达.md",
+      "sha256": "97552a62d2730366bb767e2e27b8af776d3d81fb1101758f2b8b69c5e09a553d",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=DKrBGOFs0GY": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250605 Anthropic首席产品官谈未来——Instagram联合创始人Mike Krieger.md",
+      "sha256": "253950aea1c90c8e0a964f8264c7b52ce685af75b1161b77ecca38eaabfc6e0e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=puY_dxVKEwU": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250608 Mercado Libre：1.8万名工程师、每天3万次部署，以及自有飞机机队 - Sebastian Barrios.md",
+      "sha256": "3eedcf1d04f1a1639e0aa1acee636add63181e39e3cf5dca3376f885b5610893",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=eKuFqQKYRrA": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250619 AI prompt engineering in 2025- What works and what doesn’t - Sander Schulhoff.md",
+      "sha256": "ab0b7b989efb0ed1415bd4865ada9669589408e0a45330f121360b5a9f024d21",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=WWoyWNhx2XU": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250720 Anthropic联合创始人：AGI预测、离开OpenAI的原因以及他的深夜忧虑 - Ben Mann.md",
+      "sha256": "690a0ab174e0f0926b64fa9f7b390a121389ade33d6b469c258a15466cfbcd08",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=0_opWSfmN8M": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250821 Eoghan McCabe（创始人兼CEO）：Intercom如何押注AI浴火重生.md",
+      "sha256": "88317b4031b82c517de379614ed5ca6a8a1230a07a784e451203e4f9241b2e45",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=0qdR-XwHJ9o": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250824 前沿AI模型背后的专家网络培训——加雷特·洛德.md",
+      "sha256": "159e03bf8f854cb30d72a9ac5bf3d77f47569916422362274b425df04f4ef4b7",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=ja6fWTDPQl4": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250918 Why experts writing AI evals is creating the fastest-growing companies in history - Brendan Foody.md",
+      "sha256": "c909044472417990bbdc3d10cab233606e0fdb6fb4cef87891b718266d33aaf7",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=BsWxPI9UM4c": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/250925 Why AI evals are the hottest new skill for product builders - Hamel Husain & Shreya Shankar.md",
+      "sha256": "38ab2db791efd33cc8ab45c9e2dd6fe90961a7e4311e8188f4824acd1afb565c",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=kOnsqqVbIeY": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251010 深入解析谷歌的AI转型：AI模式、AI摘要及AI驱动搜索的未来愿景 - Robby Stein.md",
+      "sha256": "088ca68dccd89d7e2cf4343969ab7aa4a49f8d53e5f3fa9931439425a25198f3",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=WyJV6VwEGA8": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251016 Figma’s CEO- Why AI makes design, craft, and quality the new moat for startups - Dylan Field.md",
+      "sha256": "3a90bdda5162893ffbc58e7454ac3db4e72d16e6ef6a514167bfa66f18346c93",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=SWcDfPVTizQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251019 2025年如何衡量AI开发者生产力 - Nicole Forsgren.md",
+      "sha256": "5ea559b37925078263c6450181cb1589b5e90481ba5ba08c7403bd2ad04b05b9",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=qbvY0dQgSJ4": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251023 AI工程入门：Chip Huyen（英伟达、斯坦福、Netflix）.md",
+      "sha256": "371233fa8f862528af1f0a3122fd93ca7ef1102d78a2888ab055a49c52b4d1b0",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=JMeXWVw0r3E": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251026 Dhanji R. Prasanna：Block如何成为世界上最AI原生的企业.md",
+      "sha256": "bc69af0bc6097cf5f49a512d61aef1a7e98eb0aa87c0f733f36198a6fd656340",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=Ctjiatnd6Xk": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251116 AI领域教母李飞飞：谈工作、机器人及世界模型的未来.md",
+      "sha256": "eba0712ea44e35406a1adfc677fbe36f5026e5b822e47234dfc3325cab747c9b",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=dduQeaqmpnI": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251207 10亿美元AI公司训练ChatGPT、Claude和Gemini，迈向负责任的AGI之路 - Edwin Chen.md",
+      "sha256": "bb65bc852dc585ef2e5077bf68d41040902ad0d61eb3f22f50bb19d52a890557",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=z1ISq9Ty4Cg": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251214 Inside OpenAI：2026是智能体之年、AI的最大瓶颈，以及算力并非问题所在.md",
+      "sha256": "cb4f26a97f14aece1d401c73f1a2a2ed21e1aeca38e271212274794bc3acf9e9",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=J9982NLmTXg": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/251221 Why securing AI is harder than anyone expected and guardrails are failing - HackAPrompt CEO.md",
+      "sha256": "115c00a73b856e43dc73545b1133218f65f6f611e7aa00e00c6a62789d76ea10",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=z7T1pCxgvlA": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260111 Why most AI products fail- Lessons from 50+ AI deployments at OpenAI, Google & Amazon.md",
+      "sha256": "507200debd3ca89ab3154c7a4d317e5ff0efae89c581a073143f68fbfe8e49bf",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=87Pm0SGTtN8": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260129 马克·安德森：真正的AI繁荣尚未开始.md",
+      "sha256": "65db38255c58aa4f2a82c112cb4353f92acdd683f2bfc1ec0c7517e756a8f427",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=0XNkUdzxiZI": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260208 The rise of the professional vibe coder (a new AI-era job).md",
+      "sha256": "ac8f2932ad2d2e9964b1bb88cca84a42f7c2a02822610d6f0e2d8d79e9b6678f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=B26CwKm5C1k": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260212 OpenAI平台工程负责人Sherwin Wu谈未来12-24个月的AI发展.md",
+      "sha256": "6d5b29e85e8f182b51d552b3853669c1bdbf24a0544dd09359d553d0748fcec4",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=We7BZVKbCVw": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260219 Claude Code负责人：编码问题解决之后会发生什么 - Boris Cherny.md",
+      "sha256": "27fe50aaedeaf226115fef1415855d4096feb0b485d496e4a1fd86afccad6643",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=ylNKlBlkFas": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260226 AI is critical for humanity’s survival- Cisco President on the AI revolution - Jeetu Patel.md",
+      "sha256": "e4ea80e1e4b4e3a96f45ca103d9c984a0ca2792299ca415f6f324a821bea9be0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=_rcniEb9bLw": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260308 The real AI revolution isn’t software. It’s farms, mines, and trucks. - Qasar Younis.md",
+      "sha256": "8902fd805752f7569a2e8bbe2aa59795fd7d5185a45d61031b3cca40d8c55e4e",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=wc8FBhQtdsA": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260402 AI国情咨文：我们已跨越拐点，黑暗工厂即将到来.md",
+      "sha256": "4ec6da007ba83e0254af7e1890d0032957e74b3bbd9ffcb3616a733af57f9d30",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=PplmzlgE0kg": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260423 Anthropic产品团队如何比任何人都更快地推进工作 - Cat Wu（Claude Code产品负责人）.md",
+      "sha256": "fdff978488b8ba62093f15807566fe7f812ec8b3bbe09dcd5ced0b8eae5cb1a1",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=G5WTgB87rYQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260517 为什么下一次AI浪潮是物理AI - Caitlin Kalinowski（前OpenAI、Meta、Apple）.md",
+      "sha256": "ec2fa16315f67192a03d0c7b15af31e515f4fdb491346a9a08cb02fe6233854d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=4D3hDmGhFhA": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260524 AI predictions- Job markets, Codex beats Claude, and the death of org charts - Dan Shipper.md",
+      "sha256": "d994f098cdcbe0a8e3a0a4ed3554a3b78ac7f503c92fc6dbb8f0e92884a51be3",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=BD3vLtWhT5A": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260531 今年最理性的AI观点.md",
+      "sha256": "e4aeaf712d9c1e2f4975ff3283c510fca56f3887c37e8b4ba48be9b02944b0ef",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=Ybrl4FYM57c": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260621 编码问题解决之后会发生什么——Fiona Fung（Claude Code & Cowork）.md",
+      "sha256": "7ea55b6f42e997e815f47ed93bd5eb2a9df92ada9a954adc21123dc3f03795fd",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=P3KDebPTUrw": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260628 OpenAI为何将Codex与ChatGPT合并，以及知识工作的未来 - Andrew Ambrosino.md",
+      "sha256": "24e1ea42d91263f8eb0c7739cb1ecdab265ca9af3f991709101e814ffcab7afe",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=yQ_EWmtfWvQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260709 The rise of taste, human authenticity and judgment in an AI world - Adam Mosseri (Head of IG).md",
+      "sha256": "f9e76529cd170c5c5f81c92253602d2d4f7fa063d330352f7bc479a6ba527c19",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=t0GiTyz4syY": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260719 为什么Netflix在AI时代押注系统思维者而非专家 - Elizabeth Stone（首席技术官）.md",
+      "sha256": "8ebe7ece1cae4fb3dfefbb0cc52639edfea58f0efe8c27a616035f9513c90dc3",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=tivaWTTVRhY": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260726 为什么AI再次走向垂直领域 - Dianne Penn（Anthropic）.md",
+      "sha256": "0f677e7c499970c034d6f1cf5e6ab1bb0b0928d5695af41e48aac5f432f8089f",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=zMvBMfj4cSQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260830 AI’s third era- the rise of persistent AI coworkers - Tara Seshan (OpenAI’s product lead).md",
+      "sha256": "63b6983d34523a7d291ee5e60a725af0c0aac1228075a3b5c31f6f13124313a0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=maSdsTLaMuU": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260908 我们如何在一个月内构建Grok机器人 - Roman Ugarte (SpaceXAI).md",
+      "sha256": "6fa1352d645d070c783c95916a4a34caa98fe64d291427fe717eb95d3609cae1",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=ZG8Mf3P9xzI": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260925 What product looks like when coding is solved - Geoff Charles (Ramp CPO).md",
+      "sha256": "c008b4f6f6d251f6c73722861eaccab5f523f95ba56f675aed8c901d6df011a4",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=Zn9NZ-r1-C4": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260929 Context is now the product- Product leadership when software can build itself - Karri Saarinen.md",
+      "sha256": "244a28f63cb8e22c20b47a6dd5a07427147e3ff532524f135d47b6568f3219d3",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=sEXdyK6woKU": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/260929 为什么Claude还不能成为你的产品经理（目前）——Anthropic CPO小组讨论.md",
+      "sha256": "599e26e8c9fa321752f334efa87c2f05a6c9de2c1c6429cacc03be7ad8755370",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=MM-C3JqCXBk": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/261004 OpenAI ChatGPT负责人：我们正进入一个全新的AI时代（再次） - Tibo Sottiaux.md",
+      "sha256": "19bdda420224ef67278a6d4feed467dbbfe783665e75f780a060771f84ff72fa",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=3I6QYkccd3o": {
+      "source_path": "youtube_transcript/❶ 视频转录文04 AI产品与技术趋势/261011 为什么如今每家公司都需要像实验室团队那样思考和行动 - Josh Woodward（谷歌实验室副总裁）.md",
+      "sha256": "e7b0f63e6402f7e83ace7cba3a2fa230e5ef0dbb61a04488827c3f4ee3867fe6",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=6XMUDEYf2OE": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/220721 如何在公司内部推销你的想法并晋升 - Casey Winters, Eventbrite.md",
+      "sha256": "0db35a4c7f7f257f45ecb48402d90c1eea1a3b7b4179f9f887b7c1a15343c8b9",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=6P0Es02vIF4": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/220724 How to unlock your product leadership skills - Ken Norton, Ex-Google.md",
+      "sha256": "fcd2beb8a98e78e21d1c84ae714e96ea8da2231202f6ed0e951d55dfe5a837e8",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=7uSuMIJhONA": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/220814 伟大团队的仪式 - Shishir Mehrotra, Coda, YouTube, Microsoft.md",
+      "sha256": "62a8f6bdf12e71f7cb4323e4e93a0be30e8214c55bdfe2dcfe413afca8b6310e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=4jtGsyz4jLs": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/220828 说服性沟通与向上管理 - Wes Kao (Maven, altMBA, Section4).md",
+      "sha256": "6855af513cc981387abb80ebb8f04fa71c29fdf4fb9816752368b52e97269a43",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=oo0jSep7pzc": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/221023 如何建立信任并成长为产品领导者 - Fareed Mosavat（Reforge、Slack、Instacart、皮克斯）.md",
+      "sha256": "f71ace7144549608480546cd068f99797326ac511912cce38c47f18830a1f921",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=v3pofqabzhs": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/221103 来自全球顶级高管猎头劳伦·伊普森（Daversa Partners，GC）的启示.md",
+      "sha256": "082a8a564d6e56f84f288d6d8fec300db7783e0a7fe0da2654e314f5c4e1e437",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=bCel0X2Ta7U": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/221110 如何克服恐惧、给出严厉反馈并优雅地进行裁员 - Matt Mochary.md",
+      "sha256": "b4748cb0f29cbe5f8829868c76f4f932d2291317a6b75ec2370bc9c63cda5fe6",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=4n3ybRqU5mU": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/221127 如何成为产品人的最佳教练 - Petra Wille (Strong Product People).md",
+      "sha256": "6c5d3bb7d2e7d95d1050a1e524f5377dccd1957b546dd5c475372e2cbd54bb16",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=Y4PdUItyXUk": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230115 什么造就了顶级产品团队？——约翰·卡特勒（The Beautiful Mess）.md",
+      "sha256": "c88fb0e05566e6185f0c0ff3b4d76cf542572e83ff14461b26e3473278f6fa4f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=tlCK9TuALtk": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230209 以同理心为先 - Keith Yandell（DoorDash、Uber）.md",
+      "sha256": "495a2d88e74d8cdacc92f823d2645305be80e67c83291521bf1fe3a0b04d80b1",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=DBomzCnUDd8": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230310 The common mistake most managers make - Claire Hughes Johnson (ex-COO of Stripe).md",
+      "sha256": "664aea6a0915662abfa920f50888a9fe2939bd08ee3e727e92cd6a206a81c5f3",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=kvkL18Ue0dE": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230316 OKR终极指南 - 克里斯蒂娜·沃德克（斯坦福）.md",
+      "sha256": "63c4debb592dd476310252aebfd6583d77ba66550b102817546f2f5423b31650",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=4PhfAbRQpbI": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230406 团队协同、工作与生活平衡以及产品经理角色的演变 - Nikita Miller.md",
+      "sha256": "f3fef7f7e63e0348e5767fabf1085f7622ab099077261716530206673613062e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=F0_IKKY3HCk": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230504 打造卓越文化 - 大卫·辛格尔顿（Stripe CTO）.md",
+      "sha256": "11eaa88e7dc2c2730226fede4613b535bb83243136055b502026735de9551547",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=-kHkWgjGD7U": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230601 南希·杜阿特的故事讲述法——如何打造引人入胜的演示并讲述令人难忘的故事.md",
+      "sha256": "847086cb1ba0fedaa4746ad21bb60fb56002416c6af62e096009171a574f169f",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=DoEfXj1b_ko": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/230618 打造高绩效团队 - Melissa Tan（Webflow、Dropbox、Canva）.md",
+      "sha256": "78c8c6cdacdb6790c4b2227054e2070ee5820d0390019b6e9205cfaf85ffe871",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=XmgetFMgQZ0": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/231001 优秀团队的特质 - Lane Shackleton（Coda首席产品官）.md",
+      "sha256": "e65933cc7fa93595c85bb4b72fb2574ca1c72ca8cfa4f02f04fe0d6d612c7a08",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=S9WHQa_AJQo": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/231102 Unpacking Amazon’s unique ways of working - Bill Carr (author of Working Backwards).md",
+      "sha256": "40ca504ea19e7c6535d36000a5a0f328fcb58b04d9d712ecf2ec31e5e2a505e0",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=UhASMW6X4AY": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/231129 我从100多位嘉宾中精选的最爱面试问题.md",
+      "sha256": "bae58ae5354efffba35652bbad3fd4636910115b1d0e2560ef36626a712ca14a",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=V7tnbx-6Ayc": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/231210 Radical Candor- From theory to practice with author Kim Scott.md",
+      "sha256": "a239937ff6533442be11df4bfe71df38c358bcc24676a86a014e2835bf71b33a",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=Z9ftpRhRiJE": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240107 The engineering mindset - Will Larson (Carta, Stripe, Uber, Calm, Digg).md",
+      "sha256": "72796fa630898e04383250b711946fb3b52f4e1c55d33b22b8bd92198707802a",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=IOWDoDpQ7Xg": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240111 如何更具创新性 - Sam Schillace（微软前CTO，Google Docs创始人）.md",
+      "sha256": "22c32e0e528554878d282375069fb6b6adafbcc72b7dc5fa950539997c146562",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=0wN5wSImUdY": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240118 组建团队的艺术与智慧——海蒂·赫尔法德（《动态重组》作者）.md",
+      "sha256": "5a203a95982332449f087cdfa68ea8c6c7f76e50330c0b26ec31672d9f577c6c",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=2XgU6T4DalY": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240222 How Netflix builds a culture of excellence - Elizabeth Stone (CTO).md",
+      "sha256": "a13436d3f400ec24be3c1996633d67313139b6de924a246e2023dab83cc7ec8b",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=cJo2Yf5UOEU": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240414 GitLab之道：善良、透明与短脚趾 - David DeSanto（首席产品官）.md",
+      "sha256": "d88014c14b583938d9b492d0995bd5df54e4af3589cccf921d112a8ec59adb08",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=MKDnDueTvKk": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240428 Twitter前产品负责人谈埃隆、消费产品、文化等 - 凯文·拜克普尔.md",
+      "sha256": "87826d1db5fd68f1c56025a445bca05e2f74ddf736a4273501e0fbbaa663d6f9",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=6UHAop9fhNU": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240623 以真诚与好奇心产生影响力——Ami Vora（Faire首席产品官，前WhatsApp、Facebook、Instagram）.md",
+      "sha256": "5722c6bdb82da02533fd3f734e23f138a55c80dd5cfa6c7fe33a1ffb3ea6fe31",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=apfL7ULrQ-I": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/240901 拥抱混乱，以探究代替倡导，挑战权威，以及“影响、影响、再影响”——弗拉基米尔·洛赫捷夫.md",
+      "sha256": "de6fc86ecf06b1a65915babedfe46f8d121d5582a4e5c067e84b25bf464cd21d",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=W7o40qcYHlM": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/241006 有意识的领导力：解锁愿景、战略与使命 - JM Nickels（优步、Waymo、DoorDash）.md",
+      "sha256": "1ed9a5d543195a57fc07caa0540e69177cbed867f100b65f9453dc10abf8fdc0",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=-ljxHsuwz98": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/241031 伟大决策的仪式 - Lenny & Friends 2024峰会.md",
+      "sha256": "2913614d823b10f1d524b280300244c41d648a40363222ae8f96b40038ca4598",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=0Z5FCYDeZXs": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/241212 如何赢得朋友并影响决策（朱莉·朱奥）- Lenny & Friends 2024峰会.md",
+      "sha256": "a021691f064712e9390c1522383c4b2714e6ac90a3cd66f68f25bee5f6a88645",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=C_lhMOjG7PE": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/241219 Shopify如何打造高强度文化 - Farhan Thawar（副总裁兼工程负责人）.md",
+      "sha256": "1172dc07427c7d056af984a56026cb2200e049118c73a7e4a91a6cc040ee998a",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=HL7PS0fy1Ho": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250102 深入 Gong：团队如何与设计伙伴协作、采用 Pod 结构、赋予自主权与信任.md",
+      "sha256": "74a2f6f6456c16d1e86be81b4ecdc42a099bba8d3d4aa8aae16a3c38523df574",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=bvF0ZM8DjuI": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250105 应对艰难对话的脚本 - 艾莉莎·科恩（执行教练）.md",
+      "sha256": "581ab67d7dd420dffcfa4546b321e80531f90c68b54193006e4ea574cd3d60e2",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=ciBdPH88C4c": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250112 从零搭建产品团队、吸引顶尖人才、拓展多产品线及更多.md",
+      "sha256": "1ffe09f2b2310d5671ffa93059571277805920c0e1e08cb40162f40e872c46fc",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=tq6vdDJQXvs": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250202 Tobi Lütke的领导力手册- 第一性原理、无限游戏和最大化人类潜力.md",
+      "sha256": "5500b8d373868861faa6133eeddf95b2f536cf068ad553e1997043ac2b1a4bd3",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=DeskgjrLxxs": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250209 OpenAI研究员：为什么软技能是未来的工作关键 - Karina Nguyen.md",
+      "sha256": "a5e701db53f56de47ca300de0973b674fe029dd0c200d593fe5340c92b646b18",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=BIvVGhy_VxU": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250406 成为更好的沟通者：提升清晰度、影响力和影响力的具体框架.md",
+      "sha256": "ed1760b80e54afb908b44b158749ac050792bd4b4ed9ecf6c7d7c5ef4c38a96f",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=L9qqwV8_rvY": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250427 深入 monday.com 的转型：激进透明、重影响轻产出，以及迈向10亿美元ARR之路.md",
+      "sha256": "4c9a917c7d2aefac434446fc3b439f50cd0be1c0dadd4c4d7b2502cfe0ad1139",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=xm5QAzAlqEY": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250615 How to build a team that can “take a punch” - Hilary Gridley (Head of Core Product, Whoop).md",
+      "sha256": "8128a82f3a500270f8810b72127a3ba9de6d31bbe8d565251ef8df40b3c236c6",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=GT0jtVjRy2E": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250831 我们如何为AI重构Airtable整个组织架构 - Howie Liu（联合创始人兼CEO）.md",
+      "sha256": "ef314d9ffbd6fc39b352659fdbb6fcaddfbd7daf3dae19afc9d434bb000f13f3",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=c_w0LaFahxk": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/250921 从管理人类到管理AI：每个人现在都需要掌握的领导力技能 - 朱莉·朱.md",
+      "sha256": "cfa73657f88f04d3e6481d71638c6dafcf2e4b5f01ed6d72c46d476d677bfe42",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=1GDVum5IarI": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/251123 A guide to difficult conversations, building high-trust teams, and designing a life you love.md",
+      "sha256": "34ad269b7c3eeb615653f3e488a496eaa3abc78135d347613d4151d3caa27d04",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=O_W76LR77Vw": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/251228 “I deliberately understaff every project” - Leadership lessons from Rippling’s $16B journey.md",
+      "sha256": "9787781ddbce616ec25146b2852b7c2ec01fc341bcd9612b4e4deead9d079438",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=zegYJ6dhIg4": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/260809 构建高人才密度团队的策略 - Cursor 人才负责人 Adam Ward.md",
+      "sha256": "2c1a7706ec0f4862b38211bfd15825704a97ee608eff82841485ef32b050e6a3",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=BtK4kFI1LNo": {
+      "source_path": "youtube_transcript/❶ 视频转录文05 领导力与组织管理/260928 角色并未收敛，而是在扩展——Tamar Yehoshua（Atlassian CPO）.md",
+      "sha256": "54804e7a65accb11cdeedef5f4597ad25db49d35cfa5a59e04ab2f989c0af6ce",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=YLsxHa1dhSw": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/220908 克服冒名顶替综合征，加速你的职业发展 - 朱莉·朱奥（Sundial, Facebook）.md",
+      "sha256": "8ac82bf0ddc78977013778b4647d69bf107b25fb1c5482c8e5137d1aa270f2ee",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=nMsA5VeLoOM": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/220918 打造有意义的职业生涯 - Jason Shah（Airbnb、Amazon、Microsoft、Alchemy）.md",
+      "sha256": "e9d855df69cf915b821d64d449e2cc64b4dbddfa7aff28f377fac3d4f64b271c",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=CtB0O0M7YS0": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/221117 离开大厂，打造排名第一的科技通讯——Gergely Orosz（The Pragmatic Engineer）.md",
+      "sha256": "31365d208a5f538d9d7aebe91ade9c80eda69dcfdc986be9cd27f43769bda1d2",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=7gaPPrAd7nc": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/221120 成为顶级1%产品经理的秘诀 - Ian McAllister (Uber, Amazon, Airbnb).md",
+      "sha256": "2620b10705b044e02f8c9366a4fc5aa47ad624681bac85462917424afae09674",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=T4LGBZ0uO_4": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/221229 冒名顶替综合征及应对它的5个技巧.md",
+      "sha256": "1233ab7fa95baa1224a876f441f99fd279cc7c3bf46cbfd8bbfb315773e237b9",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=zn2JNbZwf00": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230105 借助导师提升职业水平 - Jules Walter (YouTube, Slack).md",
+      "sha256": "5f41a24dfe117b5579a4a73ab3bda4bbc115523072387836765cac01822a7966",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=qOrwVtZvdaE": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230117 Are your fears giving you terrible advice- - Matt Mochary.md",
+      "sha256": "66c767660fca754b7c9c7efe34fc5d1782fbd2d84f8d9c97e5839dc32413782f",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=R8uPpsDqJWk": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230215 Shreyas Doshi如何用LNO框架高效处理压力山大的待办事项.md",
+      "sha256": "672e6d8dd727145586a9a6161bde4b53a25abe8729cd3198782e919aa9c494a6",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=UMAmj1bciww": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230309 职业框架、A-B测试、入职技巧、向工程师销售 - Laura Schaffer (Amplitude).md",
+      "sha256": "c6f4f84026a5668eb40a62d3992d290d7d01d65093386586a56c01eee81ebfc6",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=N64vIY2nJQo": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230416 How to make better decisions and build a joyful career - Ada Chen Rekhi (Notejoy, LinkedIn).md",
+      "sha256": "faa7358de73351662c8a0edcb84b1a2d2017c4d67998bd769ec6d7a676d41d31",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=l-T8sNRcWQk": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230421 感到停滞不前？Ada Chen Rekhi教你何时该离开当前工作.md",
+      "sha256": "3a34f26b3f8916d33dcbc67ee21e9f93a6aad0de4b1f100501fc47c502b593a4",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=Pm7QSWDIEUc": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230430 如何在你的业务和职业中实现超增长 - Carilu Dietrich (Atlassian).md",
+      "sha256": "d413c0ffff15cf2e25b9c9bc2804f0dc89d4c8949e1a68f24393d79bc63663cf",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=qU9ihr-kppo": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230515 Jeff Bezos asks this interview question. How would you answer-.md",
+      "sha256": "c620560a819e388a34a74c43a8bccbcc306a4ed74a0deb63a131a1d01f5468b8",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=U_WQuUIYnJg": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230611 构建漫长而有意义的职业生涯 - Nikhyl Singhal（Meta, Google）.md",
+      "sha256": "031f07185722cb658c51ec1bf746d8ae06d2d2f1bc1d2a7d7d6c643f0b0bff2e",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=rMqElZhqeRg": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230630 The Interview Question That Challenges Conventional Thinking.md",
+      "sha256": "44b14829d157491dc088b261de64cf0536a6e47cc97241d24ae6b8cb78787e94",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=omk7ZUXveHw": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230708 👂Young product managers.md",
+      "sha256": "16456d05a0026644efa52e9a0eb1a0069411654b9a61d9e7717f7f4092cadbb5",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=N7S6nSmOsUI": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/230709 如何提出正确的问题、展现自信并赢得怀疑者的心 - Paige Costello (Asana).md",
+      "sha256": "898bff27a8938361c2cfc90632267e1187c9ddc7b08cf3706439353af76ce167",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=ZG3iNH4vvMA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/231005 Brian Balfour- 10 lessons on career, growth, and life.md",
+      "sha256": "1ef9e1878a92f95138ad5fd675f9fe9cc75934b0d241d80c750e7810747f9001",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=yFckwBtiCUM": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/231119 重新定义成功、金钱与归属感 - 保罗·米勒德（无径之路）.md",
+      "sha256": "24bb617a3643cd6c34289a593c385755c136e22f43b5627f874e07b664752bc8",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=9euy9gC48lc": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/231213 失败.md",
+      "sha256": "6cac32e4fbef220ab70d0a8821182c115f7ff15e06a2fd83ac38e2dc5f1359ff",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=J4wguyJZI6A": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/231215 如何讲好故事 - 马修·迪克斯（Storyworthy）.md",
+      "sha256": "291c26f16f719a73abf0271b43dfc808afb96e151d46efbca775c40b7c261c2a",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=WSscIIY609c": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/231229 减少分心、提升专注力的策略 - 尼尔·埃亚尔.md",
+      "sha256": "21d46d930102de443fbfdaa66c649faa5dfb06863490e9b23c73e22968ba01d8",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=GB0P0_nFPTA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240114 Taking control of your career - Ethan Evans (Amazon).md",
+      "sha256": "d44fb9a927ee7b973a9ff0eb9ec62849d42ec923bce2d0681cb1ff78571bcfe6",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=-kN8Agqee4w": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240128 管理紧张、焦虑和倦怠 - 乔尼·米勒（神经系统掌控）.md",
+      "sha256": "5dee087f208dc477e1ce502a1efecd2784d40dac7691cdefeb0c2480841707a2",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=cuce7zvOFHY": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240211 为重要之事腾出时间——《Make Time》作者杰克·坎普和约翰·泽拉茨基.md",
+      "sha256": "1d19ba4bb05fb61a0168b194c1d01d2226ea5a8f226b75a5ed7ab62a591a870d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=7fA8DMMUNPI": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240225 如何发现你的超能力，掌控自己的故事，并实现个人成长 - Donna Lichaw.md",
+      "sha256": "042a38c0415f73f47d9ba017a284914453ea0ed49150522da0c725a15fa5eb66",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=a_W5Rn0bJWE": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240317 产品管理的幸福与痛苦 - Noam Lovinsky（Grammarly、FB、Thumbtack、YT）.md",
+      "sha256": "85d4d79b73ed8eadff22f46945fb92563083b27c1a99cb6eedc6e2663a49cca2",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=LpbBzmXrzEY": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240331 How to speak more confidently and persuasively - Matt Abrahams (professor, speaker, author).md",
+      "sha256": "1ebeb5af9c99554194d989233545b78ffd1c44618380054f77a2899701068db5",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=Cew9-GlC_yk": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240425 How to build deeper, more robust relationships - Carole Robin (Stanford professor, “Touchy Feely”).md",
+      "sha256": "67f655c50339362c4b2046142541693a1c7748bfb671475bbfb876da35256b06",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=svQMODvIGAE": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240502 这将让你成为更好的决策者——安妮·杜克（《思考，快与慢》，前职业扑克选手）.md",
+      "sha256": "1aa614a3c0431587fd4f0a174727b95ac49a9d3a83887525f87e88fb6933825c",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=ImSvm11GR0Y": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240512 产品经理技能发展框架 - Vikrama Dhiman (Gojek).md",
+      "sha256": "3942a089a1c38a06a80c430b54f6bc1859594c7e83d2e95211da5be6a3c12441",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=KSCjl_VIdak": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240519 为什么不敢争取你想要的东西会阻碍你——Kenneth Berger（执行教练，Slack 首位产品经理）.md",
+      "sha256": "d5ef15480e97170f042fdb3110dd3c0076d7f28dcaf9f20b1644eed0e99d1103",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=Ub9UkWByFIQ": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240526 Unorthodox frameworks for growing your product, career, and impact - Bangaly Kaba (YT, IG, FB).md",
+      "sha256": "9281e8caa871365500cd2430115bad724534c109d32ba82f85f0fd83594fbdd1",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=etVCBDRXUH8": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240613 通往权力之路：如何提升影响力并推动职业发展 - 杰弗里·费弗（斯坦福大学）.md",
+      "sha256": "844141e116b409733e62ef5ad7c3df10dd4212fad2e1e3fb6660477b08cb7321",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=DYkE1gf37ts": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240808 拥抱情绪如何加速你的职业发展 - 乔·哈德森（成就的艺术）.md",
+      "sha256": "b2405005df0e0ba6d61aeebbfb300895a2ca28fe07b6cd12285b343d55d1aca1",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=GECtyEj9UPA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240811 了解你的大脑，提升策略、影响力与决策力 - Evan LaPointe.md",
+      "sha256": "fd7adf8e3c3ab7eb90478aa80f7c6608c8f264f9489789db28ea1c98cd0da8d9",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=MajB5CQUKDA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240822 内向者的成功之道：从零到一构建事业，像管理产品一样规划职业生涯 - Deb Liu.md",
+      "sha256": "007c71ca0f45725827d89e8fa33cbf9481076db2e1d3eb9e2744176457c68238",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=OH3nzRdwYPA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240912 在当今市场拿下理想工作——谈判技巧、求职建议等 - 菲尔·特里.md",
+      "sha256": "fa015cf71adfbf4238b05213afbfff8561cf129c297b2d01d0fc2a0b3b4d877f",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=wFhurV1l6Jk": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/240922 成为超级独立贡献者：来自12年产品经理个人贡献者的经验教训 - Tal Raviv（Riverside）.md",
+      "sha256": "7951fb4eb8076396a12e28eb1f855b98f0c062d4635453152ab52a8eeb448dd6",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=BQM3Yq93nVc": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/241013 Why most public speaking advice is wrong—and how to finally overcome anxiety - Tristan de Montebello.md",
+      "sha256": "5644913ee63ca681f33c048d7e04e55dd9733c86c076f145c47fcafd43bea5cf",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=E3dUveqt9Bw": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/241017 Becoming more strategic, navigating difficult colleagues, founder mode, more - Anneka Gupta.md",
+      "sha256": "950f2f85496ebf4885ac36f30a951d507013a77e4a55c4f835f4d297ee43ce7c",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=atS060bNpE0": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/241031 前Stripe、Twitter、Google负责人Shreyas的4个后悔没早点问自己的问题.md",
+      "sha256": "e54c84ad19cfd85d3f3701e473c8fee46d88ddeb9890b5c2f967fb076f12c88c",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=Q5PX2DpRqEI": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/241113 如何打造精英职业 - Lenny & Friends 2024峰会.md",
+      "sha256": "8936c8908aedd1916dea837ca37942bf9203aeea9ed40041b4a6ee1b5934236a",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=UpGR9P0Ufts": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250116 如何摆脱自动驾驶模式，创造你想要的生活 - 格雷厄姆·韦弗（斯坦福商学院教授）.md",
+      "sha256": "5df6951696de5ba37d5f7692941848cdf61275ec0d68edd538518bb7fd475717",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=2wypVv9wZtI": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250223 如何找到你热爱的工作 - 鲍勃·莫埃斯塔（Jobs-to-be-Done共同创始人，《Job Moves》作者）.md",
+      "sha256": "f67cc6a164aa6047fe5818ab9d058a113f64739e4c482114e707f0cf6bd090fa",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=DkKGGfORHqw": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250316 内向者的隐藏力量：如何在不改变自我的情况下蓬勃发展 - 苏珊·凯恩.md",
+      "sha256": "ea0776c114d7c6b54bca1838331b65e4f8cea528c6706e639ef61b5f15bbd191",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=PJE7etZQ9us": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250508 How have I been complicit in creating the conditions I say I don’t want- - Jerry Colonna.md",
+      "sha256": "6dc7ee223dfcb953f346d3c0c3d9de88b42a1b8e845d85689cc9edc46b317626",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=ts9ZvlkeWGs": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/250814 拯救产品职业生涯的一个问题 - Matt LeMay.md",
+      "sha256": "d15c9d148743a16ed5e6fbffb7c1b0e1d8e426297515d17a07e9727a3fe368a1",
+      "atoms": 5
+    },
+    "https://www.youtube.com/watch?v=twzLDx9iers": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260104 “我喜欢被吓到”——Molly Graham的快速职业成长框架.md",
+      "sha256": "1516bbe7d1005903ecefa72b9e3c198ba71f5688403f3b8aed997304b9603698",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=KtKJ3A6DWTs": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260115 如何在任何场合保持低心率——硅谷缺失的礼仪指南.md",
+      "sha256": "72ba4bfa9c45078c0a7347061c7ec1b1997dabc8a82970d13b2a69645ac834d7",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=Auxs8ZsHRI4": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260201 儿童心理学家Dr. Becky Kennedy：如何与难相处的成年人打交道.md",
+      "sha256": "04202e886cc7e0ea2de78fb82b68b817c77e128634f94360b628398b14c47b0d",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=HEqrvF7ztBE": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260312 Lenny Rachitsky幕后专访：打造通讯与播客的故事.md",
+      "sha256": "26b1b629b747b799f7bef223542d29e8eefeed26a6c5f8ae2c74a08cfd8ba032",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=pEis2CBomVA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260315 他谈判了超过10亿美元的高管薪酬。这是他的策略手册。- 雅各布·沃里克.md",
+      "sha256": "508f010e07cf10fd029028351c91571f9b7e45edb272e59a878d76cbab7d7601",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=RP4vJeIb7WU": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260322 影响力艺术：AI无法替代的最重要技能 - Jessica Fain.md",
+      "sha256": "456c09ae9007482254ade41b18452fc0f3a51ceab23f12e5dfb5c69a30524a85",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=DIa0MYJzM5I": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260329 从怀疑者到忠实粉丝——OpenClaw如何改变我的生活 - Claire Vo.md",
+      "sha256": "0993a3326e3a57535eece9e4894f1a573439f559a4ef0b8c0c25ba675536b9d7",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=yUohoaC8_Hs": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260419 为什么一半的产品经理陷入困境 - Nikhyl Singhal（Meta，Google）.md",
+      "sha256": "b06695df4d0e6c4759d4be63d3c3f8370dbb7d66cc7b627fde2990954183cffc",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=mCO-D3pkviM": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260502 AI时代技能：为什么培养自主性比职位名称更重要 - Max Schoening (Notion).md",
+      "sha256": "e19e663e99f284f12bab661c866683e85e8d9e5434e95e3d06c50422a2ec843f",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=_cmpIveXnvE": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260712 AI蜜月期为何终结（科技从业者正切身感受） - Noam Segal.md",
+      "sha256": "84fbfcd6f4fc5840472ca7d1905bb38be6e787ad854fc92e4869c6537b5caf29",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=5-96FyJFiCA": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260927 莫莉·格雷厄姆：AI转型中隐藏的悲伤、倦怠与机遇.md",
+      "sha256": "27e2264f7ac4cbaff2bbd2c73abc030c878f14dd863570bf5b502a1464f4d00a",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=fn8wnmpVqeI": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260928 HI-ICs的崛起 - Elena Verna（Lovable）.md",
+      "sha256": "8fec96c82ba11c23f49134309feefa069241f5069d3a6329fe09d300c8301ef9",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=sTgM_sbLMNg": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/260928 What it takes to be a top PM today - Robby Stein (Google Search).md",
+      "sha256": "6b4c20f746ffcea569eb7a800acefbc3afbad26adefae3daa2b4ccc014f0cc58",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=JHo-aiePjoM": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/261018 深入理解模型究竟如何运作的拓展性对话 - Emmanuel Ameisen（Anthropic）.md",
+      "sha256": "9a7a8f68ae4fe3a6f5d70895e9d87cdb44d370235e3168f305ce59339c73153e",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=4muxFVZ4XfM": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/231008 深入 Linear：以品味、匠心与专注构建产品——Karri Saarinen（联合创始人、设计师兼 CEO）.md",
+      "sha256": "f294d72e8016bef525ce5ec23371372bc48b0d0d6d83b50ff9f245a389e4a7a5",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=gfEEcssu304": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/231015 用 Stripe 设计负责人 Katie Dill（Stripe、Airbnb、Lyft）打造精美产品.md",
+      "sha256": "3af289d11bea7f425343ea52c0c83e539bd0cc34b3ee2cb5b12ab279983e966b",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=L6RKi9ZvkT4": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/240104 UX研究迎来转折点——Judd Antin（Airbnb、Meta）.md",
+      "sha256": "e4e679a078d433268a57bdc30b3a6b2643dd06454cd522980a9335c5bd28f514",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=wgrJNHlYUA8": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/240602 Inside Canva：教练而非管理者、放手你的乐高，拥抱AI - 卡梅伦·亚当斯.md",
+      "sha256": "d17c6415245ee9559f1b83917e15691e937d73c3706372809bfd25a3f1b10cb4",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=yJQYBjto41s": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/240630 Dylan Field在Figma Config大会上的演讲：直觉、简洁与设计未来.md",
+      "sha256": "feb64c08e6c519c0e770e16782e0ed1671eabafd5a4c30bb9b49ae9bb4bc13ea",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=tLLqE6Ia8-U": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/241020 如何像设计师一样思考——字体排印与标志的隐藏力量 - Jessica Hische.md",
+      "sha256": "2693ddd5ebfa79ea9ed60dc57b7b92ef3678bc2b4978b229aa44ee3f34658e7d",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=B6Dt1sgGmLI": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/241201 一天内找到你的核心客户 - 迈克尔·马戈利斯（GV用户体验研究合作伙伴）.md",
+      "sha256": "a23346ab303d80084f6198d9753272e494228075f6bcc8156c0fd0b79eded85c",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=X-83gvgVaWc": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/250612 35年产品设计智慧：来自苹果、迪士尼、Pinterest等.md",
+      "sha256": "c982a8fcde25e56a9e97028f206b0c43a78a8c6122f06f039d1c63b207d204e3",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=eh8bcBIAAFo": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/260301 设计流程已死，取而代之的是什么？——Jenny Wen（Claude设计负责人）.md",
+      "sha256": "135250c15c68960dba4110a5f31a9d15aa4efa8884dff78e7ef057887d6e5730",
+      "atoms": 3
+    },
+    "https://www.youtube.com/watch?v=RJjl1TwyfWM": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/260607 托尼·法德尔：如何培养真正的品味（以及为什么AI让这一点更加重要）.md",
+      "sha256": "8f0a18dff16949eaf35543025323662ed85f69a74d5be05164b8db59656eaab6",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=BV0hy6NET-U": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/260816 Chatbots are not the final interface- OpenAI’s Head of Design on what’s next - Ian Silber.md",
+      "sha256": "316073a2250f2d3df9d51d65c202de88b366a54037dcd7824df89d01c0918eaa",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=GLvFTMtw4Jk": {
+      "source_path": "youtube_transcript/❶ 视频转录文07 设计研究与用户体验/260925 如何用 AI 放大意图、质量与艺术性 — Katie Dill（Stripe）.md",
+      "sha256": "87766e18a46e2324c249b6ffc0496e510c239326656e74d896bc6f91875e629b",
+      "atoms": 1
+    },
+    "https://www.youtube.com/watch?v=f4cskASqAsg": {
+      "source_path": "youtube_transcript/❶ 视频转录文08 暂未分类/221229 年度十大剧集倒计时.md",
+      "sha256": "c5bf9ec53a281a2734ab9b52a286bc393fc8d356b2f57da365561fd403296e24",
+      "atoms": 2
+    },
+    "https://www.youtube.com/watch?v=19qrLchbQEc": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/261025 86 分钟指南：如何找到产品市场契合点（PMF）｜Rob Snyder（《The Power of Pull》作者）.md",
+      "sha256": "bcdfd9fdc7df3e885b256fcea992cc2427090e0042080b67640b6b2746087b84",
+      "atoms": 50
+    },
+    "https://www.youtube.com/watch?v=KzS5Qs7vSMg": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/261101 22 岁打造出 Wispr Flow 增长引擎的人，讲透 UGC 创作 - Hector Serrano.md",
+      "sha256": "1ede3ca484f3a5d340b94580c94c0863d88012a4f969055236297ca661a44884",
+      "atoms": 33
+    },
+    "https://www.youtube.com/watch?v=qGf2Yvan4Wg": {
+      "source_path": "youtube_transcript/❶ 视频转录文06 职业发展与个人成长/261108 产品经理为何突然又变得抢手了 - Tulsee Doshi（Gemini 产品负责人）.md",
+      "sha256": "9b8b9aadfcdfd2e958d889db271b6621d69966b728072d1d4125f4aaeea9fc10",
+      "atoms": 45
+    }
+  }
+}
